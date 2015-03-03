@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 8b35935235570c042850802d42a1d5a3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ClickSoud: {fileID: 8300000, guid: 5fe43c17a91745b4b82c64a23664128d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

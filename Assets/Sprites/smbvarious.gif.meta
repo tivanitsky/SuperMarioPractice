@@ -1,0 +1,1850 @@
+fileFormatVersion: 2
+guid: 03b0e4cece5df8b4d8e39cd4d032a52d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: smbvarious_0
+    21300002: mario_die_3
+    21300004: mario_die_2
+    21300006: mario_die_1
+    21300008: mario_die_0
+    21300010: mario_walk_left_0
+    21300012: mario_stand_left
+    21300014: mario_stand_right
+    21300016: mario_walk_right_0
+    21300018: mario_walk_right_1
+    21300020: mario_walk_right_2
+    21300022: smbvarious_11
+    21300024: smbvarious_12
+    21300026: smbvarious_13
+    21300028: smbvarious_14
+    21300030: mario_stand_right
+    21300032: mario_walk_right_0
+    21300034: smbvarious_17
+    21300036: smbvarious_18
+    21300038: smbvarious_19
+    21300040: smbvarious_20
+    21300042: smbvarious_21
+    21300044: smbvarious_22
+    21300046: smbvarious_23
+    21300048: smbvarious_24
+    21300050: smbvarious_25
+    21300052: smbvarious_26
+    21300054: smbvarious_27
+    21300056: Mario_stand
+    21300058: smbvarious_29
+    21300060: smbvarious_30
+    21300062: smbvarious_31
+    21300064: smbvarious_32
+    21300066: smbvarious_33
+    21300068: smbvarious_34
+    21300070: smbvarious_35
+    21300072: smbvarious_36
+    21300074: smbvarious_37
+    21300076: smbvarious_38
+    21300078: smbvarious_39
+    21300080: smbvarious_40
+    21300082: smbvarious_41
+    21300084: smbvarious_42
+    21300086: smbvarious_43
+    21300088: smbvarious_44
+    21300090: smbvarious_45
+    21300092: smbvarious_46
+    21300094: smbvarious_47
+    21300096: smbvarious_48
+    21300098: smbvarious_49
+    21300100: smbvarious_50
+    21300102: smbvarious_51
+    21300104: smbvarious_52
+    21300106: smbvarious_53
+    21300108: smbvarious_54
+    21300110: smbvarious_55
+    21300112: smbvarious_56
+    21300114: smbvarious_57
+    21300116: smbvarious_58
+    21300118: smbvarious_59
+    21300120: smbvarious_60
+    21300122: smbvarious_61
+    21300124: smbvarious_62
+    21300126: smbvarious_63
+    21300128: smbvarious_64
+    21300130: smbvarious_65
+    21300132: smbvarious_66
+    21300134: smbvarious_67
+    21300136: smbvarious_68
+    21300138: smbvarious_69
+    21300140: smbvarious_70
+    21300142: smbvarious_71
+    21300144: smbvarious_72
+    21300146: smbvarious_73
+    21300148: smbvarious_74
+    21300150: smbvarious_75
+    21300152: smbvarious_76
+    21300154: smbvarious_77
+    21300156: smbvarious_78
+    21300158: smbvarious_79
+    21300160: smbvarious_80
+    21300162: smbvarious_81
+    21300164: smbvarious_82
+    21300166: smbvarious_83
+    21300168: smbvarious_84
+    21300170: smbvarious_85
+    21300172: smbvarious_86
+    21300174: smbvarious_87
+    21300176: smbvarious_88
+    21300178: smbvarious_89
+    21300180: smbvarious_90
+    21300182: smbvarious_91
+    21300184: smbvarious_92
+    21300186: smbvarious_93
+    21300188: smbvarious_94
+    21300190: smbvarious_95
+    21300192: smbvarious_96
+    21300194: smbvarious_97
+    21300196: smbvarious_98
+    21300198: smbvarious_99
+    21300200: smbvarious_100
+    21300202: smbvarious_101
+    21300204: smbvarious_102
+    21300206: smbvarious_103
+    21300208: smbvarious_104
+    21300210: smbvarious_105
+    21300212: smbvarious_106
+    21300214: smbvarious_107
+    21300216: smbvarious_108
+    21300218: smbvarious_109
+    21300220: smbvarious_110
+    21300222: smbvarious_111
+    21300224: smbvarious_112
+    21300226: smbvarious_113
+    21300228: smbvarious_114
+    21300230: smbvarious_115
+    21300232: smbvarious_116
+    21300234: smbvarious_117
+    21300236: smbvarious_118
+    21300238: smbvarious_119
+    21300240: smbvarious_120
+    21300242: smbvarious_121
+    21300244: smbvarious_122
+    21300246: smbvarious_123
+    21300248: smbvarious_124
+    21300250: smbvarious_125
+    21300252: smbvarious_126
+    21300254: smbvarious_127
+    21300256: smbvarious_128
+    21300258: smbvarious_129
+    21300260: smbvarious_130
+    21300262: smbvarious_131
+    21300264: smbvarious_132
+    21300266: smbvarious_133
+    21300268: smbvarious_134
+    21300270: smbvarious_135
+    21300272: smbvarious_136
+    21300274: smbvarious_137
+    21300276: smbvarious_138
+    21300278: smbvarious_139
+    21300280: smbvarious_140
+    21300282: smbvarious_141
+    21300284: smbvarious_142
+    21300286: smbvarious_143
+    21300288: smbvarious_144
+    21300290: smbvarious_145
+    21300292: smbvarious_146
+    21300294: smbvarious_147
+    21300296: smbvarious_148
+    21300298: smbvarious_149
+    21300300: smbvarious_150
+    21300302: smbvarious_151
+    21300304: smbvarious_152
+    21300306: smbvarious_153
+    21300308: smbvarious_154
+    21300310: smbvarious_155
+    21300312: smbvarious_156
+    21300314: smbvarious_157
+    21300316: smbvarious_158
+    21300318: smbvarious_159
+    21300320: smbvarious_160
+    21300322: smbvarious_161
+    21300324: smbvarious_162
+    21300326: smbvarious_163
+    21300328: smbvarious_164
+    21300330: smbvarious_165
+    21300332: smbvarious_166
+    21300334: smbvarious_167
+    21300336: smbvarious_168
+    21300338: smbvarious_169
+    21300340: smbvarious_170
+    21300342: smbvarious_171
+    21300344: smbvarious_172
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: smbvarious_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 621
+        width: 73
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mario_die_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 599
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mario_die_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 599
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mario_die_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 599
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mario_die_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 599
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mario_walk_left_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 600
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mario_stand_left
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 599
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mario_stand_right
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 599
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mario_walk_right_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 600
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mario_walk_right_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 599
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mario_walk_right_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 599
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 533
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 533
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 535
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 533
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 534
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 534
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 533
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_stand
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 532
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 532
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_30
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 533
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 533
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 496
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 496
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 495
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 495
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_36
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 496
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 497
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 497
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 496
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_40
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 498
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 496
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 496
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 460
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 460
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_45
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 460
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 459
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 459
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 459
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 461
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_50
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 459
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_51
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 456
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_52
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 456
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_53
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 457
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 426
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 405
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_56
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 404
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_57
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 404
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 405
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_59
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 404
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_60
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_61
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 404
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_62
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 404
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_63
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 406
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 406
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_65
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 381
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 381
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_67
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 379
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_68
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 379
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_69
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 379
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_70
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 379
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_71
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 380
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 379
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_73
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 379
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_74
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 380
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 344
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_76
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 344
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_77
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 344
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_78
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 343
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 343
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 343
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_81
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 345
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_82
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 343
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_83
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 347
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_84
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 343
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_85
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 343
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_86
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 308
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_87
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 308
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_88
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 312
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 308
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_90
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 310
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_91
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 308
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_92
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 308
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_93
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 308
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_94
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 309
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_95
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 309
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_96
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 309
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_97
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 273
+        width: 99
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_98
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 274
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_99
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 273
+        width: 91
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_101
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_102
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_103
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_104
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_105
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_106
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 251
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_107
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 251
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_108
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 252
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_109
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 212
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_110
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 212
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_111
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 212
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 213
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_113
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 213
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_114
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 213
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_115
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 214
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_116
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 213
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_117
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 214
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_118
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 179
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_119
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 179
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_120
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 179
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 180
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_122
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 180
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_123
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 180
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_124
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 183
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_125
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 182
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_126
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 183
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_127
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 158
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_128
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_129
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 158
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_130
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_131
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_132
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_133
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_134
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_135
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_136
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 134
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_137
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_138
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_139
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 134
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_141
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_142
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 134
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_143
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_144
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_145
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 91
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_146
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 110
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_147
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 101
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_149
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 99
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_150
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 100
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_151
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 102
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_152
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 101
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_153
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 102
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_154
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 93
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_155
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 71
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_156
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 71
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_157
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 71
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_158
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 70
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_159
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 71
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_160
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 79
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_161
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 79
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_162
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 77
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_163
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_164
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_165
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_166
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_167
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_168
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_169
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_170
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 56
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_171
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 42
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smbvarious_172
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 29
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
