@@ -17,6 +17,7 @@ public class PlayerMovement : MonoBehaviour {
 		//Соответственно это переключает анимацию с одного клипа на другой	
 		//Скорость смены кадров анимации настроивается соотвественно в анимации поле Sample
 
+		//*********************Направление движения**************************
 		if (hSpeed > 0) {
 			//Вправо бежит
 			// Widen the object by 0.1
@@ -33,5 +34,10 @@ public class PlayerMovement : MonoBehaviour {
 		} else if (hSpeed < 0) {
 			transform.localScale = new Vector3 (-1, 1, 1);
 		}
+
+		//*********************Движение*************************************
+		//Скорость твердого тела, префикс 2 у вектора говорит о количестве измерений
+		this.rigidbody2D.velocity = new Vector2(hSpeed, this.rigidbody2D.velocity.y);
+
 	}
 }
