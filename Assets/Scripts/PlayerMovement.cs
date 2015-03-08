@@ -4,13 +4,28 @@ using System.Collections;
 public class PlayerMovement : MonoBehaviour {
 
 	private Animator m_Animator;
+	public float JumpSpeed = 0.1f;
+	private Transform m_GroundCheck;
+	//Позволяет выбрать из слоев преднастроенных
+	public LayerMask GroundLayer;//LayerMask allow you to display the LayerMask popup menu in the inspector.
 
 	// Use this for initialization
 	void Start () {
-		m_Animator = GetComponent<Animator> ();//Обращение к компоненту объекта к котрому прикреплен скрипт в качестве компонента
+		m_Animator 		= GetComponent<Animator> ();//Обращение к компоненту объекта к котрому прикреплен скрипт в качестве компонента
+		m_GroundCheck	= transform.FindChild("GroundCheck");
 	}
 	
 	void FixedUpdate () {
+		if (Input.GetButton("Jump")){
+			//на земле ли мы (используем объект под марио)
+			bool IsGrounded = Physics2D.OverlapPoint(m_GroundCheck.position, GroundLayer);//Пересекаются ли
+			//Прыгать нужно только тогда когда марио на земле а не каждый раз при обновлении кадра (см событие fixed update)
+			//Иначе его будет дрючь этим импульсом до посинения (пока 24 кадра не отрисуется)
+			if (IsGrounded){
+				this.rigidbody2D.AddForce(Vector2.up * JumpSpeed, ForceMode2D.Impulse);
+			}
+		}
+
 		float hSpeed = Input.GetAxis ("Horizontal");//Получение горизонтальной скорости при обновлении физики
 
 		m_Animator.SetFloat ("Speed", Mathf.Abs (hSpeed));//Назначим параметр (по модулю) аниматора (который мы задавали для транзишнов)	
