@@ -16,15 +16,20 @@ public class PlayerMovement : MonoBehaviour {
 	}
 	
 	void FixedUpdate () {
+		//на земле ли мы (используем объект под марио)
+		bool IsGrounded = Physics2D.OverlapPoint(m_GroundCheck.position, GroundLayer);//Пересекаются ли
+
 		if (Input.GetButton("Jump")){
-			//на земле ли мы (используем объект под марио)
-			bool IsGrounded = Physics2D.OverlapPoint(m_GroundCheck.position, GroundLayer);//Пересекаются ли
 			//Прыгать нужно только тогда когда марио на земле а не каждый раз при обновлении кадра (см событие fixed update)
 			//Иначе его будет дрючь этим импульсом до посинения (пока 24 кадра не отрисуется)
 			if (IsGrounded){
 				this.rigidbody2D.AddForce(Vector2.up * JumpSpeed, ForceMode2D.Impulse);
+				IsGrounded = false;			
 			}
+
 		}
+
+		m_Animator.SetBool("IsGrounded", IsGrounded);//Для перехода от одной анимации к другой см аниматор
 
 		float hSpeed = Input.GetAxis ("Horizontal");//Получение горизонтальной скорости при обновлении физики
 
