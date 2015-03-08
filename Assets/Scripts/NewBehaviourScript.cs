@@ -82,8 +82,13 @@ public class NewBehaviourScript : MonoBehaviour {
 	// Вызывается постоянно то же см дебаг сообщение после закрытия меню
 	void OnGUI () {
 		//Debug.Log ("I am on gui");
-				const int Width = 400;
+		const int Width = 400;
 		const int Height = 300;
+
+		m_settings.Load(Camera.main.transform.FindChild("Music").GetComponent<AudioSource>(), m_SoundSource);	
+
+		//GUILayout.Label ("Score", m_settings.HighScore.ToString());
+		GUILayout.Label ("Score " + PlayerPrefs.GetInt ("HighScore", 0).ToString());
 
 		if (IsMenuActive) {
 			Rect windowRect = new Rect(
@@ -112,7 +117,8 @@ public class NewBehaviourScript : MonoBehaviour {
 
 		if(GUILayout.Button("Reset hight srore")){
 			m_SoundSource.PlayOneShot(ClickSoud);
-			m_settings.HighScore = 0;        
+			//m_settings.HighScore = 0;        
+			PlayerPrefs.SetInt("HighScore", 0);
 		}
 
 		if(GUILayout.Button("Back")){

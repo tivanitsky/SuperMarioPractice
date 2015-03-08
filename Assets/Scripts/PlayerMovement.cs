@@ -9,12 +9,23 @@ public class PlayerMovement : MonoBehaviour {
 	//Позволяет выбрать из слоев преднастроенных
 	public LayerMask GroundLayer;//LayerMask allow you to display the LayerMask popup menu in the inspector.
 
+	public int HighScore;
+
 	// Use this for initialization
 	void Start () {
 		m_Animator 		= GetComponent<Animator> ();//Обращение к компоненту объекта к котрому прикреплен скрипт в качестве компонента
 		m_GroundCheck	= transform.FindChild("GroundCheck");
 	}
-	
+
+	//Столкновение с монетой
+	void OnCollisionEnter2D(Collision2D other){
+				//Проверка тега
+				if (other.gameObject.tag == "Coin") {
+				HighScore = PlayerPrefs.GetInt ("HighScore", 0);
+				PlayerPrefs.SetInt("HighScore", ++HighScore);
+				}
+	}
+
 	void FixedUpdate () {
 		//на земле ли мы (используем объект под марио)
 		bool IsGrounded = Physics2D.OverlapPoint(m_GroundCheck.position, GroundLayer);//Пересекаются ли
