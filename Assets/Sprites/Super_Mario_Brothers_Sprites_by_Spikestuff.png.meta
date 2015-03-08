@@ -96,9 +96,9 @@ TextureImporter:
     21300182: Super_Mario_Brothers_Sprites_by_Spikestuff_91
     21300184: Super_Mario_Brothers_Sprites_by_Spikestuff_92
     21300186: Super_Mario_Brothers_Sprites_by_Spikestuff_93
-    21300188: Super_Mario_Brothers_Sprites_by_Spikestuff_94
-    21300190: Super_Mario_Brothers_Sprites_by_Spikestuff_95
-    21300192: Super_Mario_Brothers_Sprites_by_Spikestuff_96
+    21300188: Monster_0_walk_l
+    21300190: Monster_0_walk_0
+    21300192: Monster_0_walk_1
     21300194: Super_Mario_Brothers_Sprites_by_Spikestuff_97
     21300196: Super_Mario_Brothers_Sprites_by_Spikestuff_98
     21300198: Super_Mario_Brothers_Sprites_by_Spikestuff_99
@@ -270,7 +270,7 @@ TextureImporter:
     21300530: Super_Mario_Brothers_Sprites_by_Spikestuff_265
     21300532: Mario_jump
     21300534: Super_Mario_Brothers_Sprites_by_Spikestuff_267
-    21300536: Super_Mario_Brothers_Sprites_by_Spikestuff_268
+    21300536: Mario_Die
     21300538: Super_Mario_Brothers_Sprites_by_Spikestuff_269
     21300540: Super_Mario_Brothers_Sprites_by_Spikestuff_270
     21300542: Super_Mario_Brothers_Sprites_by_Spikestuff_271
@@ -1329,7 +1329,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_94
+    - name: Monster_0_walk_l
       rect:
         serializedVersion: 2
         x: 120
@@ -1339,7 +1339,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_95
+    - name: Monster_0_walk_0
       rect:
         serializedVersion: 2
         x: 150
@@ -1349,7 +1349,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_96
+    - name: Monster_0_walk_1
       rect:
         serializedVersion: 2
         x: 180
@@ -3069,7 +3069,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_268
+    - name: Mario_Die
       rect:
         serializedVersion: 2
         x: 397

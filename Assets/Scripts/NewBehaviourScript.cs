@@ -57,7 +57,7 @@ public class NewBehaviourScript : MonoBehaviour {
 
 		Application.runInBackground = true;
 
-		DontDestroyOnLoad(gameObject);
+		//DontDestroyOnLoad(gameObject);
 
         //Ищет в объекте чайлда камеры(камера гейм обджектс - адд емпти чайлд обджект наименование Sound)
         //Адд компонент в инспекторе аудио -- аудио сурс

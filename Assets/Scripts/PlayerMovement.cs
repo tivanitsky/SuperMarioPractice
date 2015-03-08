@@ -8,13 +8,25 @@ public class PlayerMovement : MonoBehaviour {
 	private Transform m_GroundCheck;
 	//Позволяет выбрать из слоев преднастроенных
 	public LayerMask GroundLayer;//LayerMask allow you to display the LayerMask popup menu in the inspector.
-
+	private bool IsDead;
 	public int HighScore;
 
 	// Use this for initialization
 	void Start () {
 		m_Animator 		= GetComponent<Animator> ();//Обращение к компоненту объекта к котрому прикреплен скрипт в качестве компонента
 		m_GroundCheck	= transform.FindChild("GroundCheck");
+		IsDead 			= false;
+	}
+
+	void OnTriggerEnter2D(Collider2D other){
+		//Проверка тега
+		if (other.gameObject.tag == "Fall") {
+			//Изменим направление монстра
+			IsDead	= true;
+			
+			//Анимация смэрти
+			m_Animator.SetBool("IsDead", IsDead);		
+		}
 	}
 
 	//Столкновение с монетой
@@ -24,11 +36,31 @@ public class PlayerMovement : MonoBehaviour {
 				HighScore = PlayerPrefs.GetInt ("HighScore", 0);
 				PlayerPrefs.SetInt("HighScore", ++HighScore);
 				}
+			else if (other.gameObject.tag == "Monster") {
+
+			IsDead	= true;
+
+			//Анимация смэрти
+			m_Animator.SetBool("IsDead", IsDead);
+
+		}
 	}
 
 	void FixedUpdate () {
 		//на земле ли мы (используем объект под марио)
 		bool IsGrounded = Physics2D.OverlapPoint(m_GroundCheck.position, GroundLayer);//Пересекаются ли
+
+		if (IsDead) {
+			//Прыжочек
+			this.rigidbody2D.AddForce(Vector2.up * JumpSpeed, ForceMode2D.Impulse);
+			
+			//yield return new WaitForSeconds(5);//Перед переключение уровня задержечка
+
+			IsDead = false;
+
+			Application.LoadLevel (Application.loadedLevel);
+
+		}
 
 		if (Input.GetButton("Jump")){
 			//Прыгать нужно только тогда когда марио на земле а не каждый раз при обновлении кадра (см событие fixed update)
