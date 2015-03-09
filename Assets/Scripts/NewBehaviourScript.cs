@@ -53,7 +53,7 @@ public class NewBehaviourScript : MonoBehaviour {
 	void Awake () {
 		ActiveMenu = MenuTypes.MainMain;//При старте меню назначается дефолтный тип
 
-		IsMenuActive = true;
+		IsMenuActive = false;
 
 		Application.runInBackground = true;
 
@@ -76,7 +76,9 @@ public class NewBehaviourScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		//Debug.Log ("I am on update");
+		if (Input.GetButton ("Cancel")) {
+			IsMenuActive = true;
+		}
 	}
 
 	// Вызывается постоянно то же см дебаг сообщение после закрытия меню

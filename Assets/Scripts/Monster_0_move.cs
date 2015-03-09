@@ -16,16 +16,18 @@ public class Monster_0_move : MonoBehaviour {
 		IsDead 			= false;
 
 	}
-	
+
 	// Update is called once per frame
 	void FixedUpdate () {
 		//Дали ли нам по шапке
 		IsDead = Physics2D.OverlapPoint(m_Boom.position, PlayerLayer);//Пересекаются ли
 		if (IsDead) {
-			Debug.Log("Is dead " + IsDead.ToString());
+			//Debug.Log("Is dead " + IsDead.ToString());
 			//Анимация смэрти
 			m_Animator.SetBool("IsDead", IsDead);		
-			Destroy(this.gameObject);//Дестрой монеты
+			//System.Threading.Thread.Sleep(500000);
+			Destroy(this.gameObject);
+			//Destroy(this.gameObject, 3);//Дестрой монстра через 3.5 секунд
 		}
 
 		//Движение монстра с учетом направления
