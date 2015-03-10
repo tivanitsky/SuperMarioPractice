@@ -26,6 +26,9 @@ public class PlayerMovement : MonoBehaviour {
 			
 			//Анимация смэрти
 			m_Animator.SetBool("IsDead", IsDead);		
+		} else if (other.gameObject.tag == "LevelEnd") {
+			//Загрузка след уровня
+			Application.LoadLevel ("scene0");
 		}
 	}
 
