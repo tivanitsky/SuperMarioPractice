@@ -2,9 +2,9 @@ fileFormatVersion: 2
 guid: dbfba50db94992e41b76b5fc08e68e59
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Super_Mario_Brothers_Sprites_by_Spikestuff_0
-    21300002: Super_Mario_Brothers_Sprites_by_Spikestuff_1
-    21300004: Super_Mario_Brothers_Sprites_by_Spikestuff_2
+    21300000: Monster_1_walk
+    21300002: Monster_1_walk_1
+    21300004: Monster_1_dead
     21300006: Super_Mario_Brothers_Sprites_by_Spikestuff_3
     21300008: Super_Mario_Brothers_Sprites_by_Spikestuff_4
     21300010: Super_Mario_Brothers_Sprites_by_Spikestuff_5
@@ -389,7 +389,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_0
+    - name: Monster_1_walk
       rect:
         serializedVersion: 2
         x: 0
@@ -399,7 +399,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_1
+    - name: Monster_1_walk_1
       rect:
         serializedVersion: 2
         x: 30
@@ -409,7 +409,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_2
+    - name: Monster_1_dead
       rect:
         serializedVersion: 2
         x: 60

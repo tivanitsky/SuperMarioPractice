@@ -30,6 +30,7 @@ public class CoinMovement : MonoBehaviour {
 		//Проверка тега
 		if (other.gameObject.tag == "Player") {
 			m_SoundSource.PlayOneShot(ClickSoud);
+
 			Destroy(this.gameObject);//Дестрой монеты
 
 		}
