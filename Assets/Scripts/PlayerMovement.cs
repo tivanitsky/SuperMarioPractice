@@ -4,13 +4,76 @@ using System.Collections;
 public class PlayerMovement : MonoBehaviour {
 
 	private Animator m_Animator;
+	public float JumpSpeed = 0.1f;
+	private Transform m_GroundCheck;
+	//Позволяет выбрать из слоев преднастроенных
+	public LayerMask GroundLayer;//LayerMask allow you to display the LayerMask popup menu in the inspector.
+	private bool IsDead;
+	public int HighScore;
 
 	// Use this for initialization
 	void Start () {
-		m_Animator = GetComponent<Animator> ();//Обращение к компоненту объекта к котрому прикреплен скрипт в качестве компонента
+		m_Animator 		= GetComponent<Animator> ();//Обращение к компоненту объекта к котрому прикреплен скрипт в качестве компонента
+		m_GroundCheck	= transform.FindChild("GroundCheck");
+		IsDead 			= false;
 	}
-	
+
+	void OnTriggerEnter2D(Collider2D other){
+		//Проверка тега
+		if (other.gameObject.tag == "Fall") {
+			//Изменим направление монстра
+			IsDead	= true;
+			
+			//Анимация смэрти
+			m_Animator.SetBool("IsDead", IsDead);		
+		}
+	}
+
+	//Столкновение с монетой
+	void OnCollisionEnter2D(Collision2D other){
+				//Проверка тега
+				if (other.gameObject.tag == "Coin") {
+				HighScore = PlayerPrefs.GetInt ("HighScore", 0);
+				PlayerPrefs.SetInt("HighScore", ++HighScore);
+				}
+			else if (other.gameObject.tag == "Monster") {
+
+			IsDead	= true;
+
+			//Анимация смэрти
+			m_Animator.SetBool("IsDead", IsDead);
+
+		}
+	}
+
 	void FixedUpdate () {
+		//на земле ли мы (используем объект под марио)
+		bool IsGrounded = Physics2D.OverlapPoint(m_GroundCheck.position, GroundLayer);//Пересекаются ли
+
+		if (IsDead) {
+			//Прыжочек
+			this.rigidbody2D.AddForce(Vector2.up * JumpSpeed, ForceMode2D.Impulse);
+			
+			//yield return new WaitForSeconds(5);//Перед переключение уровня задержечка
+
+			IsDead = false;
+
+			Application.LoadLevel (Application.loadedLevel);
+
+		}
+
+		if (Input.GetButton("Jump")){
+			//Прыгать нужно только тогда когда марио на земле а не каждый раз при обновлении кадра (см событие fixed update)
+			//Иначе его будет дрючь этим импульсом до посинения (пока 24 кадра не отрисуется)
+			if (IsGrounded){
+				this.rigidbody2D.AddForce(Vector2.up * JumpSpeed, ForceMode2D.Impulse);
+				IsGrounded = false;			
+			}
+
+		}
+
+		m_Animator.SetBool("IsGrounded", IsGrounded);//Для перехода от одной анимации к другой см аниматор
+
 		float hSpeed = Input.GetAxis ("Horizontal");//Получение горизонтальной скорости при обновлении физики
 
 		m_Animator.SetFloat ("Speed", Mathf.Abs (hSpeed));//Назначим параметр (по модулю) аниматора (который мы задавали для транзишнов)	

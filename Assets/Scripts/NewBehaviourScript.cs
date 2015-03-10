@@ -53,11 +53,11 @@ public class NewBehaviourScript : MonoBehaviour {
 	void Awake () {
 		ActiveMenu = MenuTypes.MainMain;//При старте меню назначается дефолтный тип
 
-		IsMenuActive = true;
+		IsMenuActive = false;
 
 		Application.runInBackground = true;
 
-		DontDestroyOnLoad(gameObject);
+		//DontDestroyOnLoad(gameObject);
 
         //Ищет в объекте чайлда камеры(камера гейм обджектс - адд емпти чайлд обджект наименование Sound)
         //Адд компонент в инспекторе аудио -- аудио сурс
@@ -76,14 +76,21 @@ public class NewBehaviourScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		//Debug.Log ("I am on update");
+		if (Input.GetButton ("Cancel")) {
+			IsMenuActive = true;
+		}
 	}
 
 	// Вызывается постоянно то же см дебаг сообщение после закрытия меню
 	void OnGUI () {
 		//Debug.Log ("I am on gui");
-				const int Width = 400;
+		const int Width = 400;
 		const int Height = 300;
+
+		m_settings.Load(Camera.main.transform.FindChild("Music").GetComponent<AudioSource>(), m_SoundSource);	
+
+		//GUILayout.Label ("Score", m_settings.HighScore.ToString());
+		GUILayout.Label ("Score " + PlayerPrefs.GetInt ("HighScore", 0).ToString());
 
 		if (IsMenuActive) {
 			Rect windowRect = new Rect(
@@ -112,7 +119,8 @@ public class NewBehaviourScript : MonoBehaviour {
 
 		if(GUILayout.Button("Reset hight srore")){
 			m_SoundSource.PlayOneShot(ClickSoud);
-			m_settings.HighScore = 0;        
+			//m_settings.HighScore = 0;        
+			PlayerPrefs.SetInt("HighScore", 0);
 		}
 
 		if(GUILayout.Button("Back")){

@@ -1,0 +1,3853 @@
+fileFormatVersion: 2
+guid: dbfba50db94992e41b76b5fc08e68e59
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monster_1_walk
+    21300002: Monster_1_walk_1
+    21300004: Monster_1_dead
+    21300006: Super_Mario_Brothers_Sprites_by_Spikestuff_3
+    21300008: Super_Mario_Brothers_Sprites_by_Spikestuff_4
+    21300010: Super_Mario_Brothers_Sprites_by_Spikestuff_5
+    21300012: Super_Mario_Brothers_Sprites_by_Spikestuff_6
+    21300014: Super_Mario_Brothers_Sprites_by_Spikestuff_7
+    21300016: Super_Mario_Brothers_Sprites_by_Spikestuff_8
+    21300018: Super_Mario_Brothers_Sprites_by_Spikestuff_9
+    21300020: Super_Mario_Brothers_Sprites_by_Spikestuff_10
+    21300022: Super_Mario_Brothers_Sprites_by_Spikestuff_11
+    21300024: Super_Mario_Brothers_Sprites_by_Spikestuff_12
+    21300026: Super_Mario_Brothers_Sprites_by_Spikestuff_13
+    21300028: Super_Mario_Brothers_Sprites_by_Spikestuff_14
+    21300030: Super_Mario_Brothers_Sprites_by_Spikestuff_15
+    21300032: Super_Mario_Brothers_Sprites_by_Spikestuff_16
+    21300034: Super_Mario_Brothers_Sprites_by_Spikestuff_17
+    21300036: Super_Mario_Brothers_Sprites_by_Spikestuff_18
+    21300038: Super_Mario_Brothers_Sprites_by_Spikestuff_19
+    21300040: Super_Mario_Brothers_Sprites_by_Spikestuff_20
+    21300042: Super_Mario_Brothers_Sprites_by_Spikestuff_21
+    21300044: Super_Mario_Brothers_Sprites_by_Spikestuff_22
+    21300046: Super_Mario_Brothers_Sprites_by_Spikestuff_23
+    21300048: Super_Mario_Brothers_Sprites_by_Spikestuff_24
+    21300050: Super_Mario_Brothers_Sprites_by_Spikestuff_25
+    21300052: Super_Mario_Brothers_Sprites_by_Spikestuff_26
+    21300054: Super_Mario_Brothers_Sprites_by_Spikestuff_27
+    21300056: Super_Mario_Brothers_Sprites_by_Spikestuff_28
+    21300058: Super_Mario_Brothers_Sprites_by_Spikestuff_29
+    21300060: Super_Mario_Brothers_Sprites_by_Spikestuff_30
+    21300062: Super_Mario_Brothers_Sprites_by_Spikestuff_31
+    21300064: Super_Mario_Brothers_Sprites_by_Spikestuff_32
+    21300066: Super_Mario_Brothers_Sprites_by_Spikestuff_33
+    21300068: Super_Mario_Brothers_Sprites_by_Spikestuff_34
+    21300070: Super_Mario_Brothers_Sprites_by_Spikestuff_35
+    21300072: Super_Mario_Brothers_Sprites_by_Spikestuff_36
+    21300074: Super_Mario_Brothers_Sprites_by_Spikestuff_37
+    21300076: Super_Mario_Brothers_Sprites_by_Spikestuff_38
+    21300078: Super_Mario_Brothers_Sprites_by_Spikestuff_39
+    21300080: Super_Mario_Brothers_Sprites_by_Spikestuff_40
+    21300082: Super_Mario_Brothers_Sprites_by_Spikestuff_41
+    21300084: Super_Mario_Brothers_Sprites_by_Spikestuff_42
+    21300086: Super_Mario_Brothers_Sprites_by_Spikestuff_43
+    21300088: Super_Mario_Brothers_Sprites_by_Spikestuff_44
+    21300090: Super_Mario_Brothers_Sprites_by_Spikestuff_45
+    21300092: Super_Mario_Brothers_Sprites_by_Spikestuff_46
+    21300094: Super_Mario_Brothers_Sprites_by_Spikestuff_47
+    21300096: Super_Mario_Brothers_Sprites_by_Spikestuff_48
+    21300098: Super_Mario_Brothers_Sprites_by_Spikestuff_49
+    21300100: Super_Mario_Brothers_Sprites_by_Spikestuff_50
+    21300102: Super_Mario_Brothers_Sprites_by_Spikestuff_51
+    21300104: Super_Mario_Brothers_Sprites_by_Spikestuff_52
+    21300106: Super_Mario_Brothers_Sprites_by_Spikestuff_53
+    21300108: Super_Mario_Brothers_Sprites_by_Spikestuff_54
+    21300110: Super_Mario_Brothers_Sprites_by_Spikestuff_55
+    21300112: Super_Mario_Brothers_Sprites_by_Spikestuff_56
+    21300114: Super_Mario_Brothers_Sprites_by_Spikestuff_57
+    21300116: Super_Mario_Brothers_Sprites_by_Spikestuff_58
+    21300118: Super_Mario_Brothers_Sprites_by_Spikestuff_59
+    21300120: Super_Mario_Brothers_Sprites_by_Spikestuff_60
+    21300122: Super_Mario_Brothers_Sprites_by_Spikestuff_61
+    21300124: Super_Mario_Brothers_Sprites_by_Spikestuff_62
+    21300126: Super_Mario_Brothers_Sprites_by_Spikestuff_63
+    21300128: Super_Mario_Brothers_Sprites_by_Spikestuff_64
+    21300130: Super_Mario_Brothers_Sprites_by_Spikestuff_65
+    21300132: Super_Mario_Brothers_Sprites_by_Spikestuff_66
+    21300134: Super_Mario_Brothers_Sprites_by_Spikestuff_67
+    21300136: Super_Mario_Brothers_Sprites_by_Spikestuff_68
+    21300138: Super_Mario_Brothers_Sprites_by_Spikestuff_69
+    21300140: Super_Mario_Brothers_Sprites_by_Spikestuff_70
+    21300142: Super_Mario_Brothers_Sprites_by_Spikestuff_71
+    21300144: Super_Mario_Brothers_Sprites_by_Spikestuff_72
+    21300146: Super_Mario_Brothers_Sprites_by_Spikestuff_73
+    21300148: Super_Mario_Brothers_Sprites_by_Spikestuff_74
+    21300150: Super_Mario_Brothers_Sprites_by_Spikestuff_75
+    21300152: Super_Mario_Brothers_Sprites_by_Spikestuff_76
+    21300154: Super_Mario_Brothers_Sprites_by_Spikestuff_77
+    21300156: Super_Mario_Brothers_Sprites_by_Spikestuff_78
+    21300158: Super_Mario_Brothers_Sprites_by_Spikestuff_79
+    21300160: Super_Mario_Brothers_Sprites_by_Spikestuff_80
+    21300162: Super_Mario_Brothers_Sprites_by_Spikestuff_81
+    21300164: Super_Mario_Brothers_Sprites_by_Spikestuff_82
+    21300166: Super_Mario_Brothers_Sprites_by_Spikestuff_83
+    21300168: Super_Mario_Brothers_Sprites_by_Spikestuff_84
+    21300170: Super_Mario_Brothers_Sprites_by_Spikestuff_85
+    21300172: Super_Mario_Brothers_Sprites_by_Spikestuff_86
+    21300174: Super_Mario_Brothers_Sprites_by_Spikestuff_87
+    21300176: Super_Mario_Brothers_Sprites_by_Spikestuff_88
+    21300178: Super_Mario_Brothers_Sprites_by_Spikestuff_89
+    21300180: Super_Mario_Brothers_Sprites_by_Spikestuff_90
+    21300182: Super_Mario_Brothers_Sprites_by_Spikestuff_91
+    21300184: Super_Mario_Brothers_Sprites_by_Spikestuff_92
+    21300186: Super_Mario_Brothers_Sprites_by_Spikestuff_93
+    21300188: Monster_0_walk_l
+    21300190: Monster_0_walk_0
+    21300192: Monster_0_walk_1
+    21300194: Super_Mario_Brothers_Sprites_by_Spikestuff_97
+    21300196: Super_Mario_Brothers_Sprites_by_Spikestuff_98
+    21300198: Super_Mario_Brothers_Sprites_by_Spikestuff_99
+    21300200: Super_Mario_Brothers_Sprites_by_Spikestuff_100
+    21300202: Super_Mario_Brothers_Sprites_by_Spikestuff_101
+    21300204: Super_Mario_Brothers_Sprites_by_Spikestuff_102
+    21300206: Super_Mario_Brothers_Sprites_by_Spikestuff_103
+    21300208: Super_Mario_Brothers_Sprites_by_Spikestuff_104
+    21300210: Super_Mario_Brothers_Sprites_by_Spikestuff_105
+    21300212: Super_Mario_Brothers_Sprites_by_Spikestuff_106
+    21300214: Super_Mario_Brothers_Sprites_by_Spikestuff_107
+    21300216: Super_Mario_Brothers_Sprites_by_Spikestuff_108
+    21300218: Super_Mario_Brothers_Sprites_by_Spikestuff_109
+    21300220: Super_Mario_Brothers_Sprites_by_Spikestuff_110
+    21300222: Super_Mario_Brothers_Sprites_by_Spikestuff_111
+    21300224: Super_Mario_Brothers_Sprites_by_Spikestuff_112
+    21300226: Super_Mario_Brothers_Sprites_by_Spikestuff_113
+    21300228: Super_Mario_Brothers_Sprites_by_Spikestuff_114
+    21300230: Super_Mario_Brothers_Sprites_by_Spikestuff_115
+    21300232: Super_Mario_Brothers_Sprites_by_Spikestuff_116
+    21300234: Super_Mario_Brothers_Sprites_by_Spikestuff_117
+    21300236: Super_Mario_Brothers_Sprites_by_Spikestuff_118
+    21300238: Super_Mario_Brothers_Sprites_by_Spikestuff_119
+    21300240: Super_Mario_Brothers_Sprites_by_Spikestuff_120
+    21300242: Super_Mario_Brothers_Sprites_by_Spikestuff_121
+    21300244: Super_Mario_Brothers_Sprites_by_Spikestuff_122
+    21300246: Super_Mario_Brothers_Sprites_by_Spikestuff_123
+    21300248: Super_Mario_Brothers_Sprites_by_Spikestuff_124
+    21300250: Super_Mario_Brothers_Sprites_by_Spikestuff_125
+    21300252: Super_Mario_Brothers_Sprites_by_Spikestuff_126
+    21300254: Super_Mario_Brothers_Sprites_by_Spikestuff_127
+    21300256: Super_Mario_Brothers_Sprites_by_Spikestuff_128
+    21300258: Super_Mario_Brothers_Sprites_by_Spikestuff_129
+    21300260: Super_Mario_Brothers_Sprites_by_Spikestuff_130
+    21300262: Super_Mario_Brothers_Sprites_by_Spikestuff_131
+    21300264: Super_Mario_Brothers_Sprites_by_Spikestuff_132
+    21300266: Super_Mario_Brothers_Sprites_by_Spikestuff_133
+    21300268: Super_Mario_Brothers_Sprites_by_Spikestuff_134
+    21300270: Super_Mario_Brothers_Sprites_by_Spikestuff_135
+    21300272: Super_Mario_Brothers_Sprites_by_Spikestuff_136
+    21300274: Super_Mario_Brothers_Sprites_by_Spikestuff_137
+    21300276: Super_Mario_Brothers_Sprites_by_Spikestuff_138
+    21300278: Super_Mario_Brothers_Sprites_by_Spikestuff_139
+    21300280: Super_Mario_Brothers_Sprites_by_Spikestuff_140
+    21300282: Super_Mario_Brothers_Sprites_by_Spikestuff_141
+    21300284: Super_Mario_Brothers_Sprites_by_Spikestuff_142
+    21300286: Super_Mario_Brothers_Sprites_by_Spikestuff_143
+    21300288: Super_Mario_Brothers_Sprites_by_Spikestuff_144
+    21300290: Super_Mario_Brothers_Sprites_by_Spikestuff_145
+    21300292: Super_Mario_Brothers_Sprites_by_Spikestuff_146
+    21300294: Super_Mario_Brothers_Sprites_by_Spikestuff_147
+    21300296: Super_Mario_Brothers_Sprites_by_Spikestuff_148
+    21300298: Super_Mario_Brothers_Sprites_by_Spikestuff_149
+    21300300: Super_Mario_Brothers_Sprites_by_Spikestuff_150
+    21300302: Super_Mario_Brothers_Sprites_by_Spikestuff_151
+    21300304: Super_Mario_Brothers_Sprites_by_Spikestuff_152
+    21300306: Super_Mario_Brothers_Sprites_by_Spikestuff_153
+    21300308: Super_Mario_Brothers_Sprites_by_Spikestuff_154
+    21300310: Super_Mario_Brothers_Sprites_by_Spikestuff_155
+    21300312: Super_Mario_Brothers_Sprites_by_Spikestuff_156
+    21300314: Super_Mario_Brothers_Sprites_by_Spikestuff_157
+    21300316: Super_Mario_Brothers_Sprites_by_Spikestuff_158
+    21300318: Super_Mario_Brothers_Sprites_by_Spikestuff_159
+    21300320: Super_Mario_Brothers_Sprites_by_Spikestuff_160
+    21300322: Super_Mario_Brothers_Sprites_by_Spikestuff_161
+    21300324: Super_Mario_Brothers_Sprites_by_Spikestuff_162
+    21300326: Super_Mario_Brothers_Sprites_by_Spikestuff_163
+    21300328: Super_Mario_Brothers_Sprites_by_Spikestuff_164
+    21300330: Super_Mario_Brothers_Sprites_by_Spikestuff_165
+    21300332: Super_Mario_Brothers_Sprites_by_Spikestuff_166
+    21300334: Super_Mario_Brothers_Sprites_by_Spikestuff_167
+    21300336: Super_Mario_Brothers_Sprites_by_Spikestuff_168
+    21300338: Super_Mario_Brothers_Sprites_by_Spikestuff_169
+    21300340: Super_Mario_Brothers_Sprites_by_Spikestuff_170
+    21300342: Super_Mario_Brothers_Sprites_by_Spikestuff_171
+    21300344: Super_Mario_Brothers_Sprites_by_Spikestuff_172
+    21300346: Super_Mario_Brothers_Sprites_by_Spikestuff_173
+    21300348: Super_Mario_Brothers_Sprites_by_Spikestuff_174
+    21300350: Super_Mario_Brothers_Sprites_by_Spikestuff_175
+    21300352: Super_Mario_Brothers_Sprites_by_Spikestuff_176
+    21300354: Super_Mario_Brothers_Sprites_by_Spikestuff_177
+    21300356: Super_Mario_Brothers_Sprites_by_Spikestuff_178
+    21300358: Super_Mario_Brothers_Sprites_by_Spikestuff_179
+    21300360: Super_Mario_Brothers_Sprites_by_Spikestuff_180
+    21300362: Super_Mario_Brothers_Sprites_by_Spikestuff_181
+    21300364: Super_Mario_Brothers_Sprites_by_Spikestuff_182
+    21300366: Super_Mario_Brothers_Sprites_by_Spikestuff_183
+    21300368: Super_Mario_Brothers_Sprites_by_Spikestuff_184
+    21300370: Super_Mario_Brothers_Sprites_by_Spikestuff_185
+    21300372: Super_Mario_Brothers_Sprites_by_Spikestuff_186
+    21300374: Super_Mario_Brothers_Sprites_by_Spikestuff_187
+    21300376: Super_Mario_Brothers_Sprites_by_Spikestuff_188
+    21300378: Super_Mario_Brothers_Sprites_by_Spikestuff_189
+    21300380: Super_Mario_Brothers_Sprites_by_Spikestuff_190
+    21300382: Super_Mario_Brothers_Sprites_by_Spikestuff_191
+    21300384: Super_Mario_Brothers_Sprites_by_Spikestuff_192
+    21300386: Super_Mario_Brothers_Sprites_by_Spikestuff_193
+    21300388: Super_Mario_Brothers_Sprites_by_Spikestuff_194
+    21300390: Super_Mario_Brothers_Sprites_by_Spikestuff_195
+    21300392: Super_Mario_Brothers_Sprites_by_Spikestuff_196
+    21300394: Super_Mario_Brothers_Sprites_by_Spikestuff_197
+    21300396: Super_Mario_Brothers_Sprites_by_Spikestuff_198
+    21300398: Super_Mario_Brothers_Sprites_by_Spikestuff_199
+    21300400: Super_Mario_Brothers_Sprites_by_Spikestuff_200
+    21300402: Super_Mario_Brothers_Sprites_by_Spikestuff_201
+    21300404: Super_Mario_Brothers_Sprites_by_Spikestuff_202
+    21300406: Super_Mario_Brothers_Sprites_by_Spikestuff_203
+    21300408: Super_Mario_Brothers_Sprites_by_Spikestuff_204
+    21300410: Super_Mario_Brothers_Sprites_by_Spikestuff_205
+    21300412: Super_Mario_Brothers_Sprites_by_Spikestuff_206
+    21300414: Super_Mario_Brothers_Sprites_by_Spikestuff_207
+    21300416: Super_Mario_Brothers_Sprites_by_Spikestuff_208
+    21300418: Super_Mario_Brothers_Sprites_by_Spikestuff_209
+    21300420: Super_Mario_Brothers_Sprites_by_Spikestuff_210
+    21300422: Super_Mario_Brothers_Sprites_by_Spikestuff_211
+    21300424: Super_Mario_Brothers_Sprites_by_Spikestuff_212
+    21300426: Coin_2
+    21300428: Super_Mario_Brothers_Sprites_by_Spikestuff_214
+    21300430: Super_Mario_Brothers_Sprites_by_Spikestuff_215
+    21300432: Super_Mario_Brothers_Sprites_by_Spikestuff_216
+    21300434: Super_Mario_Brothers_Sprites_by_Spikestuff_217
+    21300436: Super_Mario_Brothers_Sprites_by_Spikestuff_218
+    21300438: Super_Mario_Brothers_Sprites_by_Spikestuff_219
+    21300440: Super_Mario_Brothers_Sprites_by_Spikestuff_220
+    21300442: Super_Mario_Brothers_Sprites_by_Spikestuff_221
+    21300444: Super_Mario_Brothers_Sprites_by_Spikestuff_222
+    21300446: Super_Mario_Brothers_Sprites_by_Spikestuff_223
+    21300448: Super_Mario_Brothers_Sprites_by_Spikestuff_224
+    21300450: Super_Mario_Brothers_Sprites_by_Spikestuff_225
+    21300452: Super_Mario_Brothers_Sprites_by_Spikestuff_226
+    21300454: Super_Mario_Brothers_Sprites_by_Spikestuff_227
+    21300456: Super_Mario_Brothers_Sprites_by_Spikestuff_228
+    21300458: Super_Mario_Brothers_Sprites_by_Spikestuff_229
+    21300460: Super_Mario_Brothers_Sprites_by_Spikestuff_230
+    21300462: Super_Mario_Brothers_Sprites_by_Spikestuff_231
+    21300464: Super_Mario_Brothers_Sprites_by_Spikestuff_232
+    21300466: Super_Mario_Brothers_Sprites_by_Spikestuff_233
+    21300468: Super_Mario_Brothers_Sprites_by_Spikestuff_234
+    21300470: coin_0
+    21300472: Coin_1
+    21300474: Coin_3
+    21300476: Super_Mario_Brothers_Sprites_by_Spikestuff_238
+    21300478: Super_Mario_Brothers_Sprites_by_Spikestuff_239
+    21300480: Super_Mario_Brothers_Sprites_by_Spikestuff_240
+    21300482: Super_Mario_Brothers_Sprites_by_Spikestuff_241
+    21300484: Super_Mario_Brothers_Sprites_by_Spikestuff_242
+    21300486: Super_Mario_Brothers_Sprites_by_Spikestuff_243
+    21300488: Super_Mario_Brothers_Sprites_by_Spikestuff_244
+    21300490: Super_Mario_Brothers_Sprites_by_Spikestuff_245
+    21300492: Super_Mario_Brothers_Sprites_by_Spikestuff_246
+    21300494: Super_Mario_Brothers_Sprites_by_Spikestuff_247
+    21300496: Super_Mario_Brothers_Sprites_by_Spikestuff_248
+    21300498: Super_Mario_Brothers_Sprites_by_Spikestuff_249
+    21300500: Super_Mario_Brothers_Sprites_by_Spikestuff_250
+    21300502: Super_Mario_Brothers_Sprites_by_Spikestuff_251
+    21300504: Super_Mario_Brothers_Sprites_by_Spikestuff_252
+    21300506: Super_Mario_Brothers_Sprites_by_Spikestuff_253
+    21300508: Super_Mario_Brothers_Sprites_by_Spikestuff_254
+    21300510: Super_Mario_Brothers_Sprites_by_Spikestuff_255
+    21300512: Super_Mario_Brothers_Sprites_by_Spikestuff_256
+    21300514: Super_Mario_Brothers_Sprites_by_Spikestuff_257
+    21300516: Super_Mario_Brothers_Sprites_by_Spikestuff_258
+    21300518: Super_Mario_Brothers_Sprites_by_Spikestuff_259
+    21300520: Super_Mario_Brothers_Sprites_by_Spikestuff_260
+    21300522: Super_Mario_Brothers_Sprites_by_Spikestuff_261
+    21300524: Super_Mario_Brothers_Sprites_by_Spikestuff_262
+    21300526: Super_Mario_Brothers_Sprites_by_Spikestuff_263
+    21300528: Super_Mario_Brothers_Sprites_by_Spikestuff_264
+    21300530: Super_Mario_Brothers_Sprites_by_Spikestuff_265
+    21300532: Mario_jump
+    21300534: Super_Mario_Brothers_Sprites_by_Spikestuff_267
+    21300536: Mario_Die
+    21300538: Super_Mario_Brothers_Sprites_by_Spikestuff_269
+    21300540: Super_Mario_Brothers_Sprites_by_Spikestuff_270
+    21300542: Super_Mario_Brothers_Sprites_by_Spikestuff_271
+    21300544: Super_Mario_Brothers_Sprites_by_Spikestuff_272
+    21300546: Super_Mario_Brothers_Sprites_by_Spikestuff_273
+    21300548: Super_Mario_Brothers_Sprites_by_Spikestuff_274
+    21300550: Super_Mario_Brothers_Sprites_by_Spikestuff_275
+    21300552: Super_Mario_Brothers_Sprites_by_Spikestuff_276
+    21300554: Super_Mario_Brothers_Sprites_by_Spikestuff_277
+    21300556: Super_Mario_Brothers_Sprites_by_Spikestuff_278
+    21300558: Super_Mario_Brothers_Sprites_by_Spikestuff_279
+    21300560: Super_Mario_Brothers_Sprites_by_Spikestuff_280
+    21300562: Super_Mario_Brothers_Sprites_by_Spikestuff_281
+    21300564: Super_Mario_Brothers_Sprites_by_Spikestuff_282
+    21300566: Super_Mario_Brothers_Sprites_by_Spikestuff_283
+    21300568: Super_Mario_Brothers_Sprites_by_Spikestuff_284
+    21300570: Super_Mario_Brothers_Sprites_by_Spikestuff_285
+    21300572: Super_Mario_Brothers_Sprites_by_Spikestuff_286
+    21300574: Super_Mario_Brothers_Sprites_by_Spikestuff_287
+    21300576: Super_Mario_Brothers_Sprites_by_Spikestuff_288
+    21300578: Super_Mario_Brothers_Sprites_by_Spikestuff_289
+    21300580: Super_Mario_Brothers_Sprites_by_Spikestuff_290
+    21300582: Super_Mario_Brothers_Sprites_by_Spikestuff_291
+    21300584: Super_Mario_Brothers_Sprites_by_Spikestuff_292
+    21300586: Super_Mario_Brothers_Sprites_by_Spikestuff_293
+    21300588: Super_Mario_Brothers_Sprites_by_Spikestuff_294
+    21300590: Super_Mario_Brothers_Sprites_by_Spikestuff_295
+    21300592: Super_Mario_Brothers_Sprites_by_Spikestuff_296
+    21300594: Super_Mario_Brothers_Sprites_by_Spikestuff_297
+    21300596: Super_Mario_Brothers_Sprites_by_Spikestuff_298
+    21300598: Super_Mario_Brothers_Sprites_by_Spikestuff_299
+    21300600: Super_Mario_Brothers_Sprites_by_Spikestuff_300
+    21300602: Super_Mario_Brothers_Sprites_by_Spikestuff_301
+    21300604: Super_Mario_Brothers_Sprites_by_Spikestuff_302
+    21300606: Super_Mario_Brothers_Sprites_by_Spikestuff_303
+    21300608: Super_Mario_Brothers_Sprites_by_Spikestuff_304
+    21300610: Super_Mario_Brothers_Sprites_by_Spikestuff_305
+    21300612: Super_Mario_Brothers_Sprites_by_Spikestuff_306
+    21300614: Super_Mario_Brothers_Sprites_by_Spikestuff_307
+    21300616: Super_Mario_Brothers_Sprites_by_Spikestuff_308
+    21300618: Super_Mario_Brothers_Sprites_by_Spikestuff_309
+    21300620: Super_Mario_Brothers_Sprites_by_Spikestuff_310
+    21300622: Super_Mario_Brothers_Sprites_by_Spikestuff_311
+    21300624: Super_Mario_Brothers_Sprites_by_Spikestuff_312
+    21300626: Super_Mario_Brothers_Sprites_by_Spikestuff_313
+    21300628: Super_Mario_Brothers_Sprites_by_Spikestuff_314
+    21300630: Super_Mario_Brothers_Sprites_by_Spikestuff_315
+    21300632: Super_Mario_Brothers_Sprites_by_Spikestuff_316
+    21300634: Super_Mario_Brothers_Sprites_by_Spikestuff_317
+    21300636: Super_Mario_Brothers_Sprites_by_Spikestuff_318
+    21300638: Super_Mario_Brothers_Sprites_by_Spikestuff_319
+    21300640: Super_Mario_Brothers_Sprites_by_Spikestuff_320
+    21300642: Super_Mario_Brothers_Sprites_by_Spikestuff_321
+    21300644: Super_Mario_Brothers_Sprites_by_Spikestuff_322
+    21300646: Super_Mario_Brothers_Sprites_by_Spikestuff_323
+    21300648: Super_Mario_Brothers_Sprites_by_Spikestuff_324
+    21300650: Super_Mario_Brothers_Sprites_by_Spikestuff_325
+    21300652: Super_Mario_Brothers_Sprites_by_Spikestuff_326
+    21300654: Super_Mario_Brothers_Sprites_by_Spikestuff_327
+    21300656: Super_Mario_Brothers_Sprites_by_Spikestuff_328
+    21300658: Super_Mario_Brothers_Sprites_by_Spikestuff_329
+    21300660: Super_Mario_Brothers_Sprites_by_Spikestuff_330
+    21300662: Super_Mario_Brothers_Sprites_by_Spikestuff_331
+    21300664: Super_Mario_Brothers_Sprites_by_Spikestuff_332
+    21300666: Super_Mario_Brothers_Sprites_by_Spikestuff_333
+    21300668: Super_Mario_Brothers_Sprites_by_Spikestuff_334
+    21300670: Super_Mario_Brothers_Sprites_by_Spikestuff_335
+    21300672: Super_Mario_Brothers_Sprites_by_Spikestuff_336
+    21300674: Super_Mario_Brothers_Sprites_by_Spikestuff_337
+    21300676: Super_Mario_Brothers_Sprites_by_Spikestuff_338
+    21300678: Super_Mario_Brothers_Sprites_by_Spikestuff_339
+    21300680: Super_Mario_Brothers_Sprites_by_Spikestuff_340
+    21300682: Super_Mario_Brothers_Sprites_by_Spikestuff_341
+    21300684: Super_Mario_Brothers_Sprites_by_Spikestuff_342
+    21300686: Super_Mario_Brothers_Sprites_by_Spikestuff_343
+    21300688: Super_Mario_Brothers_Sprites_by_Spikestuff_344
+    21300690: Super_Mario_Brothers_Sprites_by_Spikestuff_345
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monster_1_walk
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_1_walk_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 584
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_1_dead
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 588
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 579
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 580
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 579
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 580
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 580
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 579
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 580
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 579
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 584
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 584
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 583
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 579
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 554
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 558
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 549
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 550
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 549
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 550
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 550
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 549
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 550
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 549
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 554
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 554
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_28
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 549
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 550
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 523
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 527
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 519
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 520
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_35
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 519
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 520
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 520
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 519
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 520
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 519
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 524
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 524
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_43
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 519
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_44
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 520
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_45
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 517
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_46
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 523
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_47
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 510
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_48
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 523
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_49
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 523
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_50
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 518
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_51
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 523
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_52
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 523
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_53
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 523
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454
+        width: 77
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_56
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 493
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_57
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 489
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_58
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 459
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_59
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 489
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_60
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 489
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 459
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_62
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 489
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 459
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_64
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 459
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_65
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 489
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_66
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 489
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 459
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_68
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 489
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 459
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_70
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 486
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_71
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 477
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_72
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 456
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_73
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 469
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_74
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 464
+        width: 136
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_75
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 463
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_76
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 464
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_77
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 464
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_78
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 463
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_79
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 466
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_80
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 472
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_81
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 472
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_82
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 466
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_83
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 459
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_84
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 472
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_85
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 472
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_86
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 472
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_87
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 472
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_88
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 456
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 433
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_90
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 445
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_91
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 445
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_92
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 433
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_0_walk_l
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 434
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_0_walk_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_0_walk_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 434
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_97
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 433
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_98
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 433
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_99
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_100
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 434
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_101
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 434
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_102
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 434
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_103
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_104
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 430
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_105
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 430
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_107
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_108
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_109
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 403
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_110
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 403
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_111
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_112
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_113
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 403
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 403
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_115
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_116
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_117
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 403
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_118
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 407
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_119
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 404
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_120
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_121
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_122
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_123
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_124
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_125
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_126
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_127
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_128
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_129
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 379
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_130
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 379
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_131
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 379
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_132
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 379
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_133
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 380
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_134
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 379
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_135
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 379
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_136
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 380
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_137
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 379
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_138
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 379
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_139
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 379
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_140
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 379
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_141
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 365
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_142
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 365
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_143
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 349
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_144
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 350
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_145
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 350
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_146
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 350
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_147
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 350
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_148
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 350
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_149
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 350
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_150
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 350
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_151
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 350
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_152
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 350
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_153
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 350
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_154
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 349
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_155
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 333
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_156
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 333
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_157
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 333
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_158
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 342
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_159
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 342
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_160
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 342
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_161
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 342
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_162
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 311
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_163
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 311
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_164
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 312
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_165
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 311
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_166
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 311
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_167
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 311
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_168
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 311
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_169
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 312
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_170
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 311
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_171
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 311
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_172
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 312
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_173
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 312
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_174
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 312
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_175
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 307
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_176
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_177
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 315
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_178
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 315
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_179
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 311
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_180
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 307
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_181
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 316
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_182
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 312
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_183
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 312
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_184
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 316
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_186
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 285
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_187
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 285
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_188
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 285
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_189
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_190
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_191
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 277
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_192
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 279
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_193
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 277
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_194
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 277
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_195
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 277
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_196
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 278
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_197
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 278
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_198
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 278
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_199
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 278
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_200
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 278
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_201
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 278
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_202
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 277
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_203
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 277
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_204
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 277
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_205
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 279
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_206
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 277
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_207
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_208
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_209
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_210
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_211
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_212
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coin_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_214
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_215
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 246
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_216
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 241
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_217
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 241
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_218
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 242
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_219
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 242
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_220
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 242
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_221
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 241
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_222
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 241
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_223
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 241
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_224
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 241
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_225
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 242
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_226
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 242
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_227
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 242
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_228
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 241
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_229
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 241
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_230
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 246
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_231
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 221
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_232
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 221
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_233
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 221
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_234
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 221
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coin_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 222
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coin_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 222
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coin_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 222
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_238
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 217
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_239
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 207
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_240
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 209
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_241
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 207
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_242
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 207
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_243
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 207
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_244
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 208
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_245
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 208
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_246
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 208
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_247
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 208
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_248
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 208
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_249
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 208
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_250
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 207
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_251
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 207
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_252
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 207
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_253
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 209
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_254
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 207
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_255
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 189
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_256
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 189
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_257
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_258
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 189
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_259
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 190
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_260
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 189
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_261
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 189
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_262
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 190
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_263
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 189
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_264
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_265
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 189
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_jump
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 189
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_267
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 175
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_Die
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 175
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_269
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 159
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_270
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 160
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_271
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 160
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_272
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 160
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_273
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 160
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_274
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 160
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_275
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 160
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_276
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 160
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_277
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 160
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_278
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 160
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_279
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 160
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_280
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 159
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_281
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 126
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_282
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 121
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_283
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 121
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_284
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 122
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_285
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 122
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_286
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 121
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_287
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 121
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_288
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 121
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_289
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 121
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_290
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 122
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_291
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 122
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_292
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 121
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_293
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 121
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_294
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 126
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_295
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 88
+        width: 277
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_296
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 87
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_297
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 89
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_298
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 87
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_299
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 87
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_300
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 87
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_301
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 88
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_302
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 88
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_303
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 88
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_304
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 88
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_305
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 88
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_306
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 88
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_307
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 87
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_308
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 87
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_309
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 87
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_310
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 89
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_311
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 87
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_312
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 89
+        width: 80
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_313
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 56
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_314
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_315
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 51
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_316
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 52
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_317
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 52
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_318
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 52
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_319
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 51
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_320
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 51
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_321
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 51
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_322
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 51
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_323
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 52
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_324
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 52
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_325
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 52
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_326
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 51
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_327
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 51
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_328
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 56
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_329
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 17
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_330
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 19
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_331
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 17
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_332
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_333
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 17
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_334
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 18
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_335
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 18
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_336
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 18
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_337
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 18
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_338
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 18
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_339
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 18
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_340
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 17
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_341
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 17
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_342
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 17
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_343
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 19
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_344
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 17
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_345
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 272
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
