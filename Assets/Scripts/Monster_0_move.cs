@@ -42,4 +42,14 @@ public class Monster_0_move : MonoBehaviour {
 			Direction = Direction * -1;
 		}
 	}
+
+	void OnCollisionEnter2D(Collision2D other){
+		if (other.gameObject.tag == "rocket") {
+			
+			Destroy(this.gameObject);//Дестрой рокеты
+			
+		}
+	}
+
+
 }

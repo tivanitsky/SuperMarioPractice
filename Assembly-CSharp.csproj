@@ -48,10 +48,12 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraScript.cs" />
      <Compile Include="Assets\Scripts\CoinMovement.cs" />
+     <Compile Include="Assets\Scripts\Gun.cs" />
      <Compile Include="Assets\Scripts\Monster_0_move.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\Settings.cs" />
+     <Compile Include="Assets\Scripts\rocket.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/soft/UnityEditor/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>

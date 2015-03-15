@@ -10,12 +10,13 @@ public class PlayerMovement : MonoBehaviour {
 	public LayerMask GroundLayer;//LayerMask allow you to display the LayerMask popup menu in the inspector.
 	private bool IsDead;
 	public int HighScore;
-
+	public bool facingRight;
 	// Use this for initialization
 	void Start () {
 		m_Animator 		= GetComponent<Animator> ();//Обращение к компоненту объекта к котрому прикреплен скрипт в качестве компонента
 		m_GroundCheck	= transform.FindChild("GroundCheck");
 		IsDead 			= false;
+		facingRight 	= true;	
 	}
 
 	void OnTriggerEnter2D(Collider2D other){
@@ -50,6 +51,11 @@ public class PlayerMovement : MonoBehaviour {
 	}
 
 	void FixedUpdate () {
+		float hSpeed = Input.GetAxis ("Horizontal");//Получение горизонтальной скорости при обновлении физики
+		
+		m_Animator.SetFloat ("Speed", Mathf.Abs (hSpeed));//Назначим параметр (по модулю) аниматора (который мы задавали для транзишнов)	
+
+
 		//на земле ли мы (используем объект под марио)
 		bool IsGrounded = Physics2D.OverlapPoint(m_GroundCheck.position, GroundLayer);//Пересекаются ли
 
@@ -65,21 +71,19 @@ public class PlayerMovement : MonoBehaviour {
 
 		}
 
-		if (Input.GetButton("Jump")){
-			//Прыгать нужно только тогда когда марио на земле а не каждый раз при обновлении кадра (см событие fixed update)
-			//Иначе его будет дрючь этим импульсом до посинения (пока 24 кадра не отрисуется)
-			if (IsGrounded){
-				this.rigidbody2D.AddForce(Vector2.up * JumpSpeed, ForceMode2D.Impulse);
-				IsGrounded = false;			
-			}
+		if (Input.GetButton ("Jump")) {
+						//Прыгать нужно только тогда когда марио на земле а не каждый раз при обновлении кадра (см событие fixed update)
+						//Иначе его будет дрючь этим импульсом до посинения (пока 24 кадра не отрисуется)
+						if (IsGrounded) {
+								this.rigidbody2D.AddForce (Vector2.up * JumpSpeed, ForceMode2D.Impulse);
+								IsGrounded = false;			
+						}
 
-		}
+				} 
+
 
 		m_Animator.SetBool("IsGrounded", IsGrounded);//Для перехода от одной анимации к другой см аниматор
 
-		float hSpeed = Input.GetAxis ("Horizontal");//Получение горизонтальной скорости при обновлении физики
-
-		m_Animator.SetFloat ("Speed", Mathf.Abs (hSpeed));//Назначим параметр (по модулю) аниматора (который мы задавали для транзишнов)	
 		//Соответственно это переключает анимацию с одного клипа на другой	
 		//Скорость смены кадров анимации настроивается соотвественно в анимации поле Sample
 
@@ -89,7 +93,7 @@ public class PlayerMovement : MonoBehaviour {
 			// Widen the object by 0.1
 			//transform.localScale += new Vector3(0.1F, 0, 0);
 			transform.localScale = new Vector3 (1, 1, 1);
-				
+			facingRight			 = true;	
 //				Vector3
 //					Description
 //					
@@ -99,6 +103,8 @@ public class PlayerMovement : MonoBehaviour {
 
 		} else if (hSpeed < 0) {
 			transform.localScale = new Vector3 (-1, 1, 1);
+			facingRight			 = false;	
+			//			
 		}
 
 		//*********************Движение*************************************
