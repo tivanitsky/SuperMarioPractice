@@ -165,16 +165,22 @@ TextureImporter:
     21300320: smbvarious_160
     21300322: smbvarious_161
     21300324: smbvarious_162
-    21300326: smbvarious_163
-    21300328: smbvarious_164
-    21300330: smbvarious_165
-    21300332: smbvarious_166
-    21300334: smbvarious_167
-    21300336: smbvarious_168
+    21300326: Mario_fire_0
+    21300328: Mario_fire_1
+    21300330: Mario_fire_2
+    21300332: rocket_0
+    21300334: rocket_1
+    21300336: rocket_2
     21300338: smbvarious_169
     21300340: smbvarious_170
     21300342: smbvarious_171
     21300344: smbvarious_172
+    21300346: smbvarious_163
+    21300348: smbvarious_164
+    21300350: smbvarious_165
+    21300352: smbvarious_166
+    21300354: smbvarious_167
+    21300356: smbvarious_168
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -1843,6 +1849,66 @@ TextureImporter:
         y: 29
         width: 31
         height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_fire_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 625
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_fire_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 625
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_fire_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 625
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rocket_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 643
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rocket_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 643
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rocket_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 643
+        width: 13
+        height: 6
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
