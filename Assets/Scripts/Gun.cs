@@ -17,7 +17,7 @@ public class Gun : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetButton ("Submit")) {
-			m_Animator.SetBool("F ire", true);
+			m_Animator.SetBool("Fire", true);
 
 			//todo после инициации объекта фелс
 			if (plMov.facingRight) {
