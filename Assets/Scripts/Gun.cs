@@ -15,9 +15,10 @@ public class Gun : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void FixedUpdate () {
 		if (Input.GetButton ("Submit")) {
-			m_Animator.SetBool("Fire", true);
+			m_Animator.SetTrigger("Fire");
+			//m_Animator.SetBool("Fire", true);
 
 			//todo после инициации объекта фелс
 			if (plMov.facingRight) {
@@ -30,7 +31,8 @@ public class Gun : MonoBehaviour {
 				Rigidbody2D RocketInstance = Instantiate(rocket, transform.position, Quaternion.Euler(new Vector3(0, 0, 180f))) as Rigidbody2D;
 				RocketInstance.velocity = new Vector2(-speed, 0);
 			}
-			m_Animator.SetBool("Fire", false);
+			//m_Animator.SetBool("Fire", false);
+			//m_Animator.SetBool("Shoot", false);
 
 		}
 	}}
