@@ -56,6 +56,9 @@ public class PlayerMovement : MonoBehaviour {
 		m_Animator.SetFloat ("Speed", Mathf.Abs (hSpeed));//Назначим параметр (по модулю) аниматора (который мы задавали для транзишнов)	
 
 
+		//m_Animator.SetBool ("Fire", false);
+
+
 		//на земле ли мы (используем объект под марио)
 		bool IsGrounded = Physics2D.OverlapPoint(m_GroundCheck.position, GroundLayer);//Пересекаются ли
 
