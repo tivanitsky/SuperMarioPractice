@@ -75,6 +75,7 @@ public class PlayerMovement : MonoBehaviour {
 		}
 
 		if (Input.GetButton ("Jump")) {
+			m_Animator.SetTrigger ("Jumped");//Слой анимации базуки
 						//Прыгать нужно только тогда когда марио на земле а не каждый раз при обновлении кадра (см событие fixed update)
 						//Иначе его будет дрючь этим импульсом до посинения (пока 24 кадра не отрисуется)
 						if (IsGrounded) {
