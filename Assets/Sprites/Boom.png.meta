@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 46c7c7bdd47cd784789f92652d7e533c
+guid: 5928433ee169a16448acf3c6981b7b92
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Smoke_0
-    21300002: Smoke_1
-    21300004: Smoke_2
-    21300006: Smoke_3
+    21300000: Boom_0
+    21300002: Boom_1
+    21300004: Boom_2
+    21300006: Boom_3
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -26,7 +26,7 @@ TextureImporter:
   generateCubemap: 0
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 4096
+  maxTextureSize: 1024
   textureSettings:
     filterMode: -1
     aniso: 16
@@ -47,45 +47,45 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Smoke_0
+    - name: Boom_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 13
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Smoke_1
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 2
-        width: 14
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Smoke_2
-      rect:
-        serializedVersion: 2
-        x: 35
+        x: 4
         y: 1
-        width: 13
-        height: 13
+        width: 31
+        height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Smoke_3
+    - name: Boom_1
       rect:
         serializedVersion: 2
-        x: 53
-        y: 2
-        width: 12
-        height: 12
+        x: 40
+        y: 3
+        width: 30
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boom_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boom_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
