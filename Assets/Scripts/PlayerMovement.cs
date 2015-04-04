@@ -11,6 +11,7 @@ public class PlayerMovement : MonoBehaviour {
 	private bool IsDead;
 	public int HighScore;
 	public bool facingRight;
+
 	// Use this for initialization
 	void Start () {
 		m_Animator 		= GetComponent<Animator> ();//Обращение к компоненту объекта к котрому прикреплен скрипт в качестве компонента
@@ -21,7 +22,7 @@ public class PlayerMovement : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D other){
 		//Проверка тега
-		if (other.gameObject.tag == "Fall") {
+		if (other.gameObject.tag == "Fall" || other.gameObject.tag == "Falling") {
 			//Изменим направление монстра
 			IsDead	= true;
 			
@@ -42,10 +43,10 @@ public class PlayerMovement : MonoBehaviour {
 				}
 			else if (other.gameObject.tag == "Monster") {
 
-			IsDead	= true;
+			//IsDead	= true;
 
 			//Анимация смэрти
-			m_Animator.SetBool("IsDead", IsDead);
+			//m_Animator.SetBool("IsDead", IsDead);
 
 		}
 	}
