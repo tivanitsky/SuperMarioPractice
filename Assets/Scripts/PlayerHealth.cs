@@ -64,7 +64,7 @@ public class PlayerHealth : MonoBehaviour {
 		healthBarRenderer.material.color = Color.Lerp (Color.green, Color.red, 1 - health * 0.01f);
 
 		//Ресайзним хелсбар пропорционально здоровью
-		healthBar.transform.localScale += new Vector3 (healthBar.transform.localScale.x * -0.1F, 0, 0);
+		healthBar.transform.localScale = new Vector3 (health / 100f, 1, 1);
 		//healthBar.transform.localScale = new Vector3 (5 * health * 0.01f, 1, 1);
 	}
 
