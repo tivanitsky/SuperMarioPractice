@@ -11,12 +11,15 @@ public class PlayerHealth : MonoBehaviour {
 	private Animator anim;
 	private bool alive 					= true;
 	private float lastHitTime = 0f;
-	private SpriteRenderer healthBar;
+	//private SpriteRenderer healthBar;
+	private GameObject healthBar;
+	private Renderer healthBarRenderer;
 
 	//Инициализация дефолтов
 	void Start () {
 		anim 		= GetComponent<Animator> ();
-		healthBar   = GameObject.FindGameObjectWithTag("HealthBar").GetComponent<SpriteRenderer> ();
+		healthBarRenderer   = GameObject.FindGameObjectWithTag("HealthBar").GetComponent<SpriteRenderer> ();
+		healthBar   = GameObject.FindGameObjectWithTag("HealthBar");
 		lastHitTime = Time.time;
 
 	}
@@ -58,7 +61,7 @@ public class PlayerHealth : MonoBehaviour {
 	//Обновим шкалу жизни у марио
 	void UpdateHealthBar(){
 		//Пропорции красного и зеленого цвета хелсбара в зависимости от здоровья марио
-		healthBar.material.color = Color.Lerp (Color.green, Color.red, 1 - health * 0.01f);
+		healthBarRenderer.material.color = Color.Lerp (Color.green, Color.red, 1 - health * 0.01f);
 
 		//Ресайзним хелсбар пропорционально здоровью
 		healthBar.transform.localScale += new Vector3 (healthBar.transform.localScale.x * -0.1F, 0, 0);
