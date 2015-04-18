@@ -192,8 +192,8 @@ TextureImporter:
     21300374: Super_Mario_Brothers_Sprites_by_Spikestuff_187
     21300376: Super_Mario_Brothers_Sprites_by_Spikestuff_188
     21300378: Super_Mario_Brothers_Sprites_by_Spikestuff_189
-    21300380: Super_Mario_Brothers_Sprites_by_Spikestuff_190
-    21300382: Super_Mario_Brothers_Sprites_by_Spikestuff_191
+    21300380: Mushroom
+    21300382: Parashute
     21300384: Super_Mario_Brothers_Sprites_by_Spikestuff_192
     21300386: Super_Mario_Brothers_Sprites_by_Spikestuff_193
     21300388: Super_Mario_Brothers_Sprites_by_Spikestuff_194
@@ -348,6 +348,18 @@ TextureImporter:
     21300686: Super_Mario_Brothers_Sprites_by_Spikestuff_343
     21300688: Super_Mario_Brothers_Sprites_by_Spikestuff_344
     21300690: Super_Mario_Brothers_Sprites_by_Spikestuff_345
+    21300692: Super_Mario_Brothers_Sprites_by_Spikestuff_0
+    21300694: Super_Mario_Brothers_Sprites_by_Spikestuff_1
+    21300696: Super_Mario_Brothers_Sprites_by_Spikestuff_2
+    21300698: Super_Mario_Brothers_Sprites_by_Spikestuff_94
+    21300700: Super_Mario_Brothers_Sprites_by_Spikestuff_95
+    21300702: Super_Mario_Brothers_Sprites_by_Spikestuff_96
+    21300704: Super_Mario_Brothers_Sprites_by_Spikestuff_213
+    21300706: Super_Mario_Brothers_Sprites_by_Spikestuff_235
+    21300708: Super_Mario_Brothers_Sprites_by_Spikestuff_236
+    21300710: Super_Mario_Brothers_Sprites_by_Spikestuff_237
+    21300712: Super_Mario_Brothers_Sprites_by_Spikestuff_266
+    21300714: Super_Mario_Brothers_Sprites_by_Spikestuff_268
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -389,7 +401,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Monster_1_walk
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_0
       rect:
         serializedVersion: 2
         x: 0
@@ -397,9 +409,9 @@ TextureImporter:
         width: 16
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Monster_1_walk_1
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_1
       rect:
         serializedVersion: 2
         x: 30
@@ -407,9 +419,9 @@ TextureImporter:
         width: 16
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Monster_1_dead
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_2
       rect:
         serializedVersion: 2
         x: 60
@@ -417,7 +429,7 @@ TextureImporter:
         width: 16
         height: 7
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_3
       rect:
@@ -427,7 +439,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_4
       rect:
@@ -437,7 +449,7 @@ TextureImporter:
         width: 16
         height: 23
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_5
       rect:
@@ -447,7 +459,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_6
       rect:
@@ -457,7 +469,7 @@ TextureImporter:
         width: 16
         height: 23
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_7
       rect:
@@ -467,7 +479,7 @@ TextureImporter:
         width: 16
         height: 23
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_8
       rect:
@@ -477,7 +489,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_9
       rect:
@@ -487,7 +499,7 @@ TextureImporter:
         width: 16
         height: 23
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_10
       rect:
@@ -497,7 +509,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_11
       rect:
@@ -507,7 +519,7 @@ TextureImporter:
         width: 16
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_12
       rect:
@@ -517,7 +529,7 @@ TextureImporter:
         width: 16
         height: 14
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_13
       rect:
@@ -527,7 +539,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_14
       rect:
@@ -537,7 +549,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_15
       rect:
@@ -547,7 +559,7 @@ TextureImporter:
         width: 16
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_16
       rect:
@@ -557,7 +569,7 @@ TextureImporter:
         width: 16
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_17
       rect:
@@ -567,7 +579,7 @@ TextureImporter:
         width: 16
         height: 7
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_18
       rect:
@@ -577,7 +589,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_19
       rect:
@@ -587,7 +599,7 @@ TextureImporter:
         width: 16
         height: 23
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_20
       rect:
@@ -597,7 +609,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_21
       rect:
@@ -607,7 +619,7 @@ TextureImporter:
         width: 16
         height: 23
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_22
       rect:
@@ -617,7 +629,7 @@ TextureImporter:
         width: 16
         height: 23
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_23
       rect:
@@ -627,7 +639,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_24
       rect:
@@ -637,7 +649,7 @@ TextureImporter:
         width: 16
         height: 23
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_25
       rect:
@@ -647,7 +659,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_26
       rect:
@@ -657,7 +669,7 @@ TextureImporter:
         width: 16
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_27
       rect:
@@ -667,7 +679,7 @@ TextureImporter:
         width: 16
         height: 14
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_28
       rect:
@@ -677,7 +689,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_29
       rect:
@@ -687,7 +699,7 @@ TextureImporter:
         width: 16
         height: 23
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_30
       rect:
@@ -697,7 +709,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_31
       rect:
@@ -707,7 +719,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_32
       rect:
@@ -717,7 +729,7 @@ TextureImporter:
         width: 16
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_33
       rect:
@@ -727,7 +739,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_34
       rect:
@@ -737,7 +749,7 @@ TextureImporter:
         width: 16
         height: 23
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_35
       rect:
@@ -747,7 +759,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_36
       rect:
@@ -757,7 +769,7 @@ TextureImporter:
         width: 16
         height: 23
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_37
       rect:
@@ -767,7 +779,7 @@ TextureImporter:
         width: 16
         height: 23
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_38
       rect:
@@ -777,7 +789,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_39
       rect:
@@ -787,7 +799,7 @@ TextureImporter:
         width: 16
         height: 23
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_40
       rect:
@@ -797,7 +809,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_41
       rect:
@@ -807,7 +819,7 @@ TextureImporter:
         width: 16
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_42
       rect:
@@ -817,7 +829,7 @@ TextureImporter:
         width: 16
         height: 14
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_43
       rect:
@@ -827,7 +839,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_44
       rect:
@@ -837,7 +849,7 @@ TextureImporter:
         width: 16
         height: 23
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_45
       rect:
@@ -847,7 +859,7 @@ TextureImporter:
         width: 30
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_46
       rect:
@@ -857,7 +869,7 @@ TextureImporter:
         width: 13
         height: 12
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_47
       rect:
@@ -867,7 +879,7 @@ TextureImporter:
         width: 15
         height: 25
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_48
       rect:
@@ -877,7 +889,7 @@ TextureImporter:
         width: 14
         height: 12
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_49
       rect:
@@ -887,7 +899,7 @@ TextureImporter:
         width: 10
         height: 12
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_50
       rect:
@@ -897,7 +909,7 @@ TextureImporter:
         width: 29
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_51
       rect:
@@ -907,7 +919,7 @@ TextureImporter:
         width: 14
         height: 12
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_52
       rect:
@@ -917,7 +929,7 @@ TextureImporter:
         width: 14
         height: 20
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_53
       rect:
@@ -927,7 +939,7 @@ TextureImporter:
         width: 16
         height: 12
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_54
       rect:
@@ -937,7 +949,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_55
       rect:
@@ -947,7 +959,7 @@ TextureImporter:
         width: 77
         height: 33
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_56
       rect:
@@ -957,7 +969,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_57
       rect:
@@ -967,7 +979,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_58
       rect:
@@ -977,7 +989,7 @@ TextureImporter:
         width: 15
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_59
       rect:
@@ -987,7 +999,7 @@ TextureImporter:
         width: 15
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_60
       rect:
@@ -997,7 +1009,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_61
       rect:
@@ -1007,7 +1019,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_62
       rect:
@@ -1017,7 +1029,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_63
       rect:
@@ -1027,7 +1039,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_64
       rect:
@@ -1037,7 +1049,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_65
       rect:
@@ -1047,7 +1059,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_66
       rect:
@@ -1057,7 +1069,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_67
       rect:
@@ -1067,7 +1079,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_68
       rect:
@@ -1077,7 +1089,7 @@ TextureImporter:
         width: 15
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_69
       rect:
@@ -1087,7 +1099,7 @@ TextureImporter:
         width: 15
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_70
       rect:
@@ -1097,7 +1109,7 @@ TextureImporter:
         width: 30
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_71
       rect:
@@ -1107,7 +1119,7 @@ TextureImporter:
         width: 14
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_72
       rect:
@@ -1117,7 +1129,7 @@ TextureImporter:
         width: 8
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_73
       rect:
@@ -1127,7 +1139,7 @@ TextureImporter:
         width: 8
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_74
       rect:
@@ -1137,7 +1149,7 @@ TextureImporter:
         width: 136
         height: 47
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_75
       rect:
@@ -1147,7 +1159,7 @@ TextureImporter:
         width: 16
         height: 13
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_76
       rect:
@@ -1157,7 +1169,7 @@ TextureImporter:
         width: 16
         height: 12
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_77
       rect:
@@ -1167,7 +1179,7 @@ TextureImporter:
         width: 16
         height: 12
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_78
       rect:
@@ -1177,7 +1189,7 @@ TextureImporter:
         width: 16
         height: 13
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_79
       rect:
@@ -1187,7 +1199,7 @@ TextureImporter:
         width: 29
         height: 31
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_80
       rect:
@@ -1197,7 +1209,7 @@ TextureImporter:
         width: 16
         height: 12
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_81
       rect:
@@ -1207,7 +1219,7 @@ TextureImporter:
         width: 19
         height: 12
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_82
       rect:
@@ -1217,7 +1229,7 @@ TextureImporter:
         width: 30
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_83
       rect:
@@ -1227,7 +1239,7 @@ TextureImporter:
         width: 15
         height: 25
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_84
       rect:
@@ -1237,7 +1249,7 @@ TextureImporter:
         width: 13
         height: 12
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_85
       rect:
@@ -1247,7 +1259,7 @@ TextureImporter:
         width: 16
         height: 20
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_86
       rect:
@@ -1257,7 +1269,7 @@ TextureImporter:
         width: 14
         height: 12
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_87
       rect:
@@ -1267,7 +1279,7 @@ TextureImporter:
         width: 12
         height: 12
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_88
       rect:
@@ -1277,7 +1289,7 @@ TextureImporter:
         width: 14
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_89
       rect:
@@ -1287,7 +1299,7 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_90
       rect:
@@ -1297,7 +1309,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_91
       rect:
@@ -1307,7 +1319,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_92
       rect:
@@ -1317,7 +1329,7 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_93
       rect:
@@ -1327,9 +1339,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Monster_0_walk_l
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_94
       rect:
         serializedVersion: 2
         x: 120
@@ -1337,9 +1349,9 @@ TextureImporter:
         width: 16
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Monster_0_walk_0
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_95
       rect:
         serializedVersion: 2
         x: 150
@@ -1347,9 +1359,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Monster_0_walk_1
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_96
       rect:
         serializedVersion: 2
         x: 180
@@ -1357,7 +1369,7 @@ TextureImporter:
         width: 16
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_97
       rect:
@@ -1367,7 +1379,7 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_98
       rect:
@@ -1377,7 +1389,7 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_99
       rect:
@@ -1387,7 +1399,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_100
       rect:
@@ -1397,7 +1409,7 @@ TextureImporter:
         width: 16
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_101
       rect:
@@ -1407,7 +1419,7 @@ TextureImporter:
         width: 16
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_102
       rect:
@@ -1417,7 +1429,7 @@ TextureImporter:
         width: 16
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_103
       rect:
@@ -1427,7 +1439,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_104
       rect:
@@ -1437,7 +1449,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_105
       rect:
@@ -1447,7 +1459,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_106
       rect:
@@ -1457,7 +1469,7 @@ TextureImporter:
         width: 15
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_107
       rect:
@@ -1467,7 +1479,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_108
       rect:
@@ -1477,7 +1489,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_109
       rect:
@@ -1487,7 +1499,7 @@ TextureImporter:
         width: 15
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_110
       rect:
@@ -1497,7 +1509,7 @@ TextureImporter:
         width: 15
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_111
       rect:
@@ -1507,7 +1519,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_112
       rect:
@@ -1517,7 +1529,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_113
       rect:
@@ -1527,7 +1539,7 @@ TextureImporter:
         width: 15
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_114
       rect:
@@ -1537,7 +1549,7 @@ TextureImporter:
         width: 15
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_115
       rect:
@@ -1547,7 +1559,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_116
       rect:
@@ -1557,7 +1569,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_117
       rect:
@@ -1567,7 +1579,7 @@ TextureImporter:
         width: 15
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_118
       rect:
@@ -1577,7 +1589,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_119
       rect:
@@ -1587,7 +1599,7 @@ TextureImporter:
         width: 12
         height: 14
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_120
       rect:
@@ -1597,9 +1609,19 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_121
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 379
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_122
       rect:
         serializedVersion: 2
         x: 2
@@ -1607,9 +1629,9 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_122
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_123
       rect:
         serializedVersion: 2
         x: 42
@@ -1617,9 +1639,9 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_123
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_124
       rect:
         serializedVersion: 2
         x: 82
@@ -1627,9 +1649,9 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_124
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_125
       rect:
         serializedVersion: 2
         x: 122
@@ -1637,9 +1659,9 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_125
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_126
       rect:
         serializedVersion: 2
         x: 162
@@ -1647,9 +1669,9 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_126
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_127
       rect:
         serializedVersion: 2
         x: 202
@@ -1657,9 +1679,9 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_127
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_128
       rect:
         serializedVersion: 2
         x: 242
@@ -1667,9 +1689,9 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_128
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_129
       rect:
         serializedVersion: 2
         x: 282
@@ -1677,9 +1699,9 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_129
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_130
       rect:
         serializedVersion: 2
         x: 352
@@ -1687,9 +1709,9 @@ TextureImporter:
         width: 17
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_130
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_131
       rect:
         serializedVersion: 2
         x: 383
@@ -1697,9 +1719,9 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_131
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_132
       rect:
         serializedVersion: 2
         x: 412
@@ -1707,9 +1729,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_132
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_133
       rect:
         serializedVersion: 2
         x: 444
@@ -1717,9 +1739,9 @@ TextureImporter:
         width: 12
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_133
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_134
       rect:
         serializedVersion: 2
         x: 473
@@ -1727,9 +1749,9 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_134
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_135
       rect:
         serializedVersion: 2
         x: 504
@@ -1737,17 +1759,7 @@ TextureImporter:
         width: 13
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_135
-      rect:
-        serializedVersion: 2
-        x: 534
-        y: 379
-        width: 13
-        height: 16
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_136
       rect:
@@ -1757,7 +1769,7 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_137
       rect:
@@ -1767,7 +1779,7 @@ TextureImporter:
         width: 12
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_138
       rect:
@@ -1777,7 +1789,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_139
       rect:
@@ -1787,7 +1799,7 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_140
       rect:
@@ -1797,7 +1809,7 @@ TextureImporter:
         width: 17
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_141
       rect:
@@ -1807,7 +1819,7 @@ TextureImporter:
         width: 15
         height: 14
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_142
       rect:
@@ -1817,7 +1829,7 @@ TextureImporter:
         width: 15
         height: 14
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_143
       rect:
@@ -1827,7 +1839,7 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_144
       rect:
@@ -1837,7 +1849,7 @@ TextureImporter:
         width: 13
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_145
       rect:
@@ -1847,7 +1859,7 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_146
       rect:
@@ -1857,7 +1869,7 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_147
       rect:
@@ -1867,7 +1879,7 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_148
       rect:
@@ -1877,7 +1889,7 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_149
       rect:
@@ -1887,7 +1899,7 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_150
       rect:
@@ -1897,7 +1909,7 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_151
       rect:
@@ -1907,7 +1919,7 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_152
       rect:
@@ -1917,7 +1929,7 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_153
       rect:
@@ -1927,7 +1939,7 @@ TextureImporter:
         width: 13
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_154
       rect:
@@ -1937,7 +1949,7 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_155
       rect:
@@ -1947,7 +1959,7 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_156
       rect:
@@ -1957,7 +1969,7 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_157
       rect:
@@ -1967,7 +1979,7 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_158
       rect:
@@ -1977,7 +1989,7 @@ TextureImporter:
         width: 24
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_159
       rect:
@@ -1987,7 +1999,7 @@ TextureImporter:
         width: 24
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_160
       rect:
@@ -1997,7 +2009,7 @@ TextureImporter:
         width: 24
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_161
       rect:
@@ -2007,7 +2019,7 @@ TextureImporter:
         width: 24
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_162
       rect:
@@ -2017,7 +2029,7 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_163
       rect:
@@ -2027,7 +2039,7 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_164
       rect:
@@ -2037,7 +2049,7 @@ TextureImporter:
         width: 14
         height: 31
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_165
       rect:
@@ -2047,7 +2059,7 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_166
       rect:
@@ -2057,7 +2069,7 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_167
       rect:
@@ -2067,7 +2079,7 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_168
       rect:
@@ -2077,7 +2089,7 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_169
       rect:
@@ -2087,7 +2099,7 @@ TextureImporter:
         width: 14
         height: 31
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_170
       rect:
@@ -2097,7 +2109,7 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_171
       rect:
@@ -2107,7 +2119,7 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_172
       rect:
@@ -2117,7 +2129,7 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_173
       rect:
@@ -2127,7 +2139,7 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_174
       rect:
@@ -2137,7 +2149,7 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_175
       rect:
@@ -2147,7 +2159,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_176
       rect:
@@ -2157,7 +2169,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_177
       rect:
@@ -2167,7 +2179,7 @@ TextureImporter:
         width: 16
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_178
       rect:
@@ -2177,7 +2189,7 @@ TextureImporter:
         width: 8
         height: 9
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_179
       rect:
@@ -2187,7 +2199,7 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_180
       rect:
@@ -2197,7 +2209,7 @@ TextureImporter:
         width: 16
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_181
       rect:
@@ -2207,7 +2219,7 @@ TextureImporter:
         width: 16
         height: 22
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_182
       rect:
@@ -2217,7 +2229,7 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_183
       rect:
@@ -2227,7 +2239,7 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_184
       rect:
@@ -2237,7 +2249,7 @@ TextureImporter:
         width: 16
         height: 22
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_185
       rect:
@@ -2247,7 +2259,7 @@ TextureImporter:
         width: 24
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_186
       rect:
@@ -2257,7 +2269,7 @@ TextureImporter:
         width: 32
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_187
       rect:
@@ -2267,7 +2279,7 @@ TextureImporter:
         width: 48
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_188
       rect:
@@ -2277,7 +2289,7 @@ TextureImporter:
         width: 48
         height: 8
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Super_Mario_Brothers_Sprites_by_Spikestuff_189
       rect:
@@ -2287,9 +2299,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_190
+    - name: Mushroom
       rect:
         serializedVersion: 2
         x: 214
@@ -2299,7 +2311,17 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_191
+    - name: Parashute
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 276
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_192
       rect:
         serializedVersion: 2
         x: 324
@@ -2307,9 +2329,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_192
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_193
       rect:
         serializedVersion: 2
         x: 351
@@ -2317,9 +2339,9 @@ TextureImporter:
         width: 14
         height: 27
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_193
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_194
       rect:
         serializedVersion: 2
         x: 375
@@ -2327,9 +2349,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_194
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_195
       rect:
         serializedVersion: 2
         x: 401
@@ -2337,9 +2359,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_195
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_196
       rect:
         serializedVersion: 2
         x: 426
@@ -2347,9 +2369,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_196
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_197
       rect:
         serializedVersion: 2
         x: 450
@@ -2357,9 +2379,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_197
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_198
       rect:
         serializedVersion: 2
         x: 475
@@ -2367,9 +2389,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_198
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_199
       rect:
         serializedVersion: 2
         x: 503
@@ -2377,9 +2399,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_199
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_200
       rect:
         serializedVersion: 2
         x: 532
@@ -2387,9 +2409,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_200
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_201
       rect:
         serializedVersion: 2
         x: 560
@@ -2397,9 +2419,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_201
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_202
       rect:
         serializedVersion: 2
         x: 585
@@ -2407,9 +2429,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_202
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_203
       rect:
         serializedVersion: 2
         x: 611
@@ -2417,9 +2439,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_203
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_204
       rect:
         serializedVersion: 2
         x: 636
@@ -2427,9 +2449,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_204
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_205
       rect:
         serializedVersion: 2
         x: 660
@@ -2437,9 +2459,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_205
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_206
       rect:
         serializedVersion: 2
         x: 686
@@ -2447,9 +2469,9 @@ TextureImporter:
         width: 14
         height: 27
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_206
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_207
       rect:
         serializedVersion: 2
         x: 713
@@ -2457,9 +2479,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_207
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_208
       rect:
         serializedVersion: 2
         x: 4
@@ -2467,9 +2489,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_208
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_209
       rect:
         serializedVersion: 2
         x: 34
@@ -2477,9 +2499,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_209
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_210
       rect:
         serializedVersion: 2
         x: 64
@@ -2487,9 +2509,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_210
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_211
       rect:
         serializedVersion: 2
         x: 94
@@ -2497,9 +2519,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_211
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_212
       rect:
         serializedVersion: 2
         x: 124
@@ -2507,9 +2529,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_212
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_213
       rect:
         serializedVersion: 2
         x: 154
@@ -2517,19 +2539,19 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Coin_2
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_214
       rect:
         serializedVersion: 2
         x: 184
-        y: 221
+        y: 222
         width: 16
-        height: 16
+        height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_214
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_215
       rect:
         serializedVersion: 2
         x: 214
@@ -2537,9 +2559,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_215
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_216
       rect:
         serializedVersion: 2
         x: 323
@@ -2547,9 +2569,9 @@ TextureImporter:
         width: 16
         height: 22
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_216
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_217
       rect:
         serializedVersion: 2
         x: 350
@@ -2557,9 +2579,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_217
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_218
       rect:
         serializedVersion: 2
         x: 375
@@ -2567,9 +2589,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_218
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_219
       rect:
         serializedVersion: 2
         x: 400
@@ -2577,9 +2599,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_219
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_220
       rect:
         serializedVersion: 2
         x: 425
@@ -2587,9 +2609,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_220
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_221
       rect:
         serializedVersion: 2
         x: 451
@@ -2597,9 +2619,9 @@ TextureImporter:
         width: 14
         height: 31
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_221
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_222
       rect:
         serializedVersion: 2
         x: 475
@@ -2607,9 +2629,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_222
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_223
       rect:
         serializedVersion: 2
         x: 503
@@ -2617,9 +2639,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_223
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_224
       rect:
         serializedVersion: 2
         x: 532
@@ -2627,9 +2649,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_224
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_225
       rect:
         serializedVersion: 2
         x: 560
@@ -2637,9 +2659,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_225
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_226
       rect:
         serializedVersion: 2
         x: 586
@@ -2647,9 +2669,9 @@ TextureImporter:
         width: 14
         height: 31
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_226
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_227
       rect:
         serializedVersion: 2
         x: 610
@@ -2657,9 +2679,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_227
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_228
       rect:
         serializedVersion: 2
         x: 635
@@ -2667,9 +2689,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_228
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_229
       rect:
         serializedVersion: 2
         x: 660
@@ -2677,9 +2699,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_229
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_230
       rect:
         serializedVersion: 2
         x: 685
@@ -2687,9 +2709,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_230
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_231
       rect:
         serializedVersion: 2
         x: 712
@@ -2697,9 +2719,9 @@ TextureImporter:
         width: 16
         height: 22
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_231
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_232
       rect:
         serializedVersion: 2
         x: 5
@@ -2707,9 +2729,9 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_232
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_233
       rect:
         serializedVersion: 2
         x: 35
@@ -2717,9 +2739,9 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_233
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_234
       rect:
         serializedVersion: 2
         x: 65
@@ -2727,9 +2749,9 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_234
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_235
       rect:
         serializedVersion: 2
         x: 95
@@ -2737,9 +2759,9 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: coin_0
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_236
       rect:
         serializedVersion: 2
         x: 128
@@ -2747,9 +2769,9 @@ TextureImporter:
         width: 8
         height: 14
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Coin_1
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_237
       rect:
         serializedVersion: 2
         x: 160
@@ -2757,9 +2779,9 @@ TextureImporter:
         width: 4
         height: 14
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Coin_3
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_238
       rect:
         serializedVersion: 2
         x: 220
@@ -2767,9 +2789,9 @@ TextureImporter:
         width: 4
         height: 14
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_238
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_239
       rect:
         serializedVersion: 2
         x: 245
@@ -2777,9 +2799,9 @@ TextureImporter:
         width: 14
         height: 24
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_239
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_240
       rect:
         serializedVersion: 2
         x: 324
@@ -2787,9 +2809,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_240
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_241
       rect:
         serializedVersion: 2
         x: 351
@@ -2797,9 +2819,9 @@ TextureImporter:
         width: 14
         height: 27
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_241
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_242
       rect:
         serializedVersion: 2
         x: 375
@@ -2807,9 +2829,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_242
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_243
       rect:
         serializedVersion: 2
         x: 401
@@ -2817,9 +2839,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_243
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_244
       rect:
         serializedVersion: 2
         x: 426
@@ -2827,9 +2849,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_244
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_245
       rect:
         serializedVersion: 2
         x: 450
@@ -2837,9 +2859,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_245
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_246
       rect:
         serializedVersion: 2
         x: 475
@@ -2847,9 +2869,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_246
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_247
       rect:
         serializedVersion: 2
         x: 503
@@ -2857,9 +2879,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_247
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_248
       rect:
         serializedVersion: 2
         x: 532
@@ -2867,9 +2889,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_248
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_249
       rect:
         serializedVersion: 2
         x: 560
@@ -2877,9 +2899,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_249
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_250
       rect:
         serializedVersion: 2
         x: 585
@@ -2887,9 +2909,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_250
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_251
       rect:
         serializedVersion: 2
         x: 611
@@ -2897,9 +2919,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_251
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_252
       rect:
         serializedVersion: 2
         x: 636
@@ -2907,9 +2929,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_252
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_253
       rect:
         serializedVersion: 2
         x: 660
@@ -2917,9 +2939,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_253
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_254
       rect:
         serializedVersion: 2
         x: 686
@@ -2927,9 +2949,9 @@ TextureImporter:
         width: 14
         height: 27
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_254
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_255
       rect:
         serializedVersion: 2
         x: 713
@@ -2937,9 +2959,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_255
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_256
       rect:
         serializedVersion: 2
         x: 36
@@ -2947,9 +2969,9 @@ TextureImporter:
         width: 17
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_256
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_257
       rect:
         serializedVersion: 2
         x: 67
@@ -2957,9 +2979,9 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_257
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_258
       rect:
         serializedVersion: 2
         x: 96
@@ -2967,9 +2989,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_258
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_259
       rect:
         serializedVersion: 2
         x: 128
@@ -2977,9 +2999,9 @@ TextureImporter:
         width: 12
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_259
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_260
       rect:
         serializedVersion: 2
         x: 157
@@ -2987,9 +3009,9 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_260
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_261
       rect:
         serializedVersion: 2
         x: 188
@@ -2997,9 +3019,9 @@ TextureImporter:
         width: 13
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_261
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_262
       rect:
         serializedVersion: 2
         x: 218
@@ -3007,9 +3029,9 @@ TextureImporter:
         width: 13
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_262
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_263
       rect:
         serializedVersion: 2
         x: 248
@@ -3017,9 +3039,9 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_263
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_264
       rect:
         serializedVersion: 2
         x: 279
@@ -3027,9 +3049,9 @@ TextureImporter:
         width: 12
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_264
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_265
       rect:
         serializedVersion: 2
         x: 307
@@ -3037,9 +3059,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_265
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_266
       rect:
         serializedVersion: 2
         x: 338
@@ -3047,9 +3069,9 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_jump
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_267
       rect:
         serializedVersion: 2
         x: 366
@@ -3057,9 +3079,9 @@ TextureImporter:
         width: 17
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_267
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_268
       rect:
         serializedVersion: 2
         x: 7
@@ -3067,9 +3089,9 @@ TextureImporter:
         width: 15
         height: 14
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Die
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_269
       rect:
         serializedVersion: 2
         x: 397
@@ -3077,9 +3099,9 @@ TextureImporter:
         width: 15
         height: 14
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_269
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_270
       rect:
         serializedVersion: 2
         x: 37
@@ -3087,9 +3109,9 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_270
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_271
       rect:
         serializedVersion: 2
         x: 68
@@ -3097,9 +3119,9 @@ TextureImporter:
         width: 13
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_271
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_272
       rect:
         serializedVersion: 2
         x: 97
@@ -3107,9 +3129,9 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_272
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_273
       rect:
         serializedVersion: 2
         x: 127
@@ -3117,9 +3139,9 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_273
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_274
       rect:
         serializedVersion: 2
         x: 157
@@ -3127,9 +3149,9 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_274
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_275
       rect:
         serializedVersion: 2
         x: 187
@@ -3137,9 +3159,9 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_275
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_276
       rect:
         serializedVersion: 2
         x: 217
@@ -3147,9 +3169,9 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_276
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_277
       rect:
         serializedVersion: 2
         x: 248
@@ -3157,9 +3179,9 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_277
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_278
       rect:
         serializedVersion: 2
         x: 278
@@ -3167,9 +3189,9 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_278
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_279
       rect:
         serializedVersion: 2
         x: 308
@@ -3177,9 +3199,9 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_279
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_280
       rect:
         serializedVersion: 2
         x: 338
@@ -3187,9 +3209,9 @@ TextureImporter:
         width: 13
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_280
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_281
       rect:
         serializedVersion: 2
         x: 368
@@ -3197,9 +3219,9 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_281
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_282
       rect:
         serializedVersion: 2
         x: 7
@@ -3207,9 +3229,9 @@ TextureImporter:
         width: 16
         height: 22
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_282
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_283
       rect:
         serializedVersion: 2
         x: 37
@@ -3217,9 +3239,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_283
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_284
       rect:
         serializedVersion: 2
         x: 67
@@ -3227,9 +3249,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_284
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_285
       rect:
         serializedVersion: 2
         x: 97
@@ -3237,9 +3259,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_285
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_286
       rect:
         serializedVersion: 2
         x: 128
@@ -3247,9 +3269,9 @@ TextureImporter:
         width: 14
         height: 31
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_286
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_287
       rect:
         serializedVersion: 2
         x: 157
@@ -3257,9 +3279,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_287
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_288
       rect:
         serializedVersion: 2
         x: 187
@@ -3267,9 +3289,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_288
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_289
       rect:
         serializedVersion: 2
         x: 216
@@ -3277,9 +3299,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_289
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_290
       rect:
         serializedVersion: 2
         x: 246
@@ -3287,9 +3309,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_290
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_291
       rect:
         serializedVersion: 2
         x: 277
@@ -3297,9 +3319,9 @@ TextureImporter:
         width: 14
         height: 31
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_291
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_292
       rect:
         serializedVersion: 2
         x: 306
@@ -3307,9 +3329,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_292
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_293
       rect:
         serializedVersion: 2
         x: 336
@@ -3317,9 +3339,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_293
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_294
       rect:
         serializedVersion: 2
         x: 366
@@ -3327,9 +3349,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_294
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_295
       rect:
         serializedVersion: 2
         x: 396
@@ -3337,9 +3359,9 @@ TextureImporter:
         width: 16
         height: 22
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_295
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_296
       rect:
         serializedVersion: 2
         x: 452
@@ -3347,9 +3369,9 @@ TextureImporter:
         width: 277
         height: 39
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_296
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_297
       rect:
         serializedVersion: 2
         x: 8
@@ -3357,9 +3379,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_297
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_298
       rect:
         serializedVersion: 2
         x: 35
@@ -3367,9 +3389,9 @@ TextureImporter:
         width: 14
         height: 27
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_298
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_299
       rect:
         serializedVersion: 2
         x: 59
@@ -3377,9 +3399,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_299
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_300
       rect:
         serializedVersion: 2
         x: 85
@@ -3387,9 +3409,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_300
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_301
       rect:
         serializedVersion: 2
         x: 110
@@ -3397,9 +3419,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_301
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_302
       rect:
         serializedVersion: 2
         x: 134
@@ -3407,9 +3429,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_302
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_303
       rect:
         serializedVersion: 2
         x: 159
@@ -3417,9 +3439,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_303
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_304
       rect:
         serializedVersion: 2
         x: 187
@@ -3427,9 +3449,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_304
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_305
       rect:
         serializedVersion: 2
         x: 216
@@ -3437,9 +3459,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_305
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_306
       rect:
         serializedVersion: 2
         x: 244
@@ -3447,9 +3469,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_306
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_307
       rect:
         serializedVersion: 2
         x: 269
@@ -3457,9 +3479,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_307
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_308
       rect:
         serializedVersion: 2
         x: 295
@@ -3467,9 +3489,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_308
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_309
       rect:
         serializedVersion: 2
         x: 320
@@ -3477,9 +3499,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_309
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_310
       rect:
         serializedVersion: 2
         x: 344
@@ -3487,9 +3509,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_310
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_311
       rect:
         serializedVersion: 2
         x: 370
@@ -3497,9 +3519,9 @@ TextureImporter:
         width: 14
         height: 27
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_311
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_312
       rect:
         serializedVersion: 2
         x: 397
@@ -3507,9 +3529,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_312
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_313
       rect:
         serializedVersion: 2
         x: 647
@@ -3517,9 +3539,9 @@ TextureImporter:
         width: 80
         height: 20
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_313
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_314
       rect:
         serializedVersion: 2
         x: 7
@@ -3527,9 +3549,9 @@ TextureImporter:
         width: 16
         height: 22
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_314
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_315
       rect:
         serializedVersion: 2
         x: 34
@@ -3537,9 +3559,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_315
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_316
       rect:
         serializedVersion: 2
         x: 59
@@ -3547,9 +3569,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_316
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_317
       rect:
         serializedVersion: 2
         x: 84
@@ -3557,9 +3579,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_317
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_318
       rect:
         serializedVersion: 2
         x: 109
@@ -3567,9 +3589,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_318
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_319
       rect:
         serializedVersion: 2
         x: 135
@@ -3577,9 +3599,9 @@ TextureImporter:
         width: 14
         height: 31
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_319
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_320
       rect:
         serializedVersion: 2
         x: 159
@@ -3587,9 +3609,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_320
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_321
       rect:
         serializedVersion: 2
         x: 187
@@ -3597,9 +3619,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_321
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_322
       rect:
         serializedVersion: 2
         x: 216
@@ -3607,9 +3629,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_322
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_323
       rect:
         serializedVersion: 2
         x: 244
@@ -3617,9 +3639,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_323
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_324
       rect:
         serializedVersion: 2
         x: 270
@@ -3627,9 +3649,9 @@ TextureImporter:
         width: 14
         height: 31
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_324
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_325
       rect:
         serializedVersion: 2
         x: 294
@@ -3637,9 +3659,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_325
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_326
       rect:
         serializedVersion: 2
         x: 319
@@ -3647,9 +3669,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_326
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_327
       rect:
         serializedVersion: 2
         x: 344
@@ -3657,9 +3679,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_327
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_328
       rect:
         serializedVersion: 2
         x: 369
@@ -3667,9 +3689,9 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_328
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_329
       rect:
         serializedVersion: 2
         x: 396
@@ -3677,9 +3699,9 @@ TextureImporter:
         width: 16
         height: 22
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_329
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_330
       rect:
         serializedVersion: 2
         x: 8
@@ -3687,9 +3709,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_330
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_331
       rect:
         serializedVersion: 2
         x: 35
@@ -3697,9 +3719,9 @@ TextureImporter:
         width: 14
         height: 27
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_331
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_332
       rect:
         serializedVersion: 2
         x: 59
@@ -3707,9 +3729,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_332
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_333
       rect:
         serializedVersion: 2
         x: 85
@@ -3717,9 +3739,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_333
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_334
       rect:
         serializedVersion: 2
         x: 110
@@ -3727,9 +3749,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_334
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_335
       rect:
         serializedVersion: 2
         x: 134
@@ -3737,9 +3759,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_335
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_336
       rect:
         serializedVersion: 2
         x: 159
@@ -3747,9 +3769,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_336
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_337
       rect:
         serializedVersion: 2
         x: 187
@@ -3757,9 +3779,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_337
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_338
       rect:
         serializedVersion: 2
         x: 216
@@ -3767,9 +3789,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_338
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_339
       rect:
         serializedVersion: 2
         x: 244
@@ -3777,9 +3799,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_339
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_340
       rect:
         serializedVersion: 2
         x: 269
@@ -3787,9 +3809,9 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_340
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_341
       rect:
         serializedVersion: 2
         x: 295
@@ -3797,9 +3819,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_341
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_342
       rect:
         serializedVersion: 2
         x: 320
@@ -3807,9 +3829,9 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_342
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_343
       rect:
         serializedVersion: 2
         x: 344
@@ -3817,9 +3839,9 @@ TextureImporter:
         width: 16
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_343
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_344
       rect:
         serializedVersion: 2
         x: 370
@@ -3827,9 +3849,9 @@ TextureImporter:
         width: 14
         height: 27
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_344
+    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_345
       rect:
         serializedVersion: 2
         x: 397
@@ -3837,17 +3859,7 @@ TextureImporter:
         width: 14
         height: 30
       alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Super_Mario_Brothers_Sprites_by_Spikestuff_345
-      rect:
-        serializedVersion: 2
-        x: 285
-        y: 272
-        width: 29
-        height: 20
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
